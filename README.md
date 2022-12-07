@@ -1,7 +1,7 @@
 ### Hi there 👋
 ```python 
 def name ():
-    print("diego", + " " + "Medina")
+    print("Diego", + " " + "Medina")
     print("where are you from?"+ " " + "I am from Venezuela but I live in the ireland")
     print ("what is your favourite food?"+ " " + "I like to eat patatas bravas")
     print ("what is you favourite sport?"+ " " + "I like to play football")
