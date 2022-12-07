@@ -1,10 +1,21 @@
 ### Hi there 👋
-```Js 
-const dm2998 = {
-pronoun: "Hi",
-code: [python, JavaScript, Html, css, linux],
-tools: [node],
-}
+```python 
+def name ():
+    print("diego", + " " + "Medina")
+    print("where are you from?"+ " " + "I am from Venezuela but I live in the ireland")
+    print ("what is your favourite food?"+ " " + "I like to eat patatas bravas")
+    print ("what is you favourite sport?"+ " " + "I like to play football")
+def address():
+    print("where do you live?"+ " " + "I live in Dublin")
+def college():
+    print ("where do you study?"+ " " + "I study in Technological University Dublin")
+def course():
+    print ("what course are you doing?"+ " " + "I am doing a computer science course" + " " + "in the Cloud Computing")
+if __name__ == '__main__':
+    name()
+    address()
+    college()
+    course()
 ```
 
 <!--
