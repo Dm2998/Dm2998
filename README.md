@@ -18,7 +18,8 @@ if __name__ == '__main__':
     course()
 ```
 
-![Dam2998 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dm2998&theme=dark&show_icons=true)(https://github.com/anuraghazra/github-readme-stats)
+![Dam2998 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dm2998&theme=dark&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=github-readme-stats)]
 
 
 
