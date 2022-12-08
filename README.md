@@ -18,7 +18,7 @@ if __name__ == '__main__':
     course()
 ```
 ```
-Hello
+![Dam2998 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dm2998&theme=dark&show_icons=true)
 ```
 
 
