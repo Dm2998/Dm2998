@@ -15,7 +15,7 @@
 <summary>:eyes: Python Example </summary>
 <br>
 
-##
+
 ``` 
 import datetime
 
@@ -70,6 +70,7 @@ if __name__ == '__main__':
 <br>   
 
 <summary>:eyes: Example of Trigonometry with Turtle Python. </summary>
+
 <br>
 <br>  
 
@@ -202,9 +203,9 @@ def draw_art():                  #draw art final
 
 ```
 
+
 <br>
 <br>   
-##
 
 
 ## :sparkling_heart: Contributions are welcome!
