@@ -1,6 +1,6 @@
 ### Hi  👋
 # Cool Readme profile items :tada::tada::tada:
-```
+
 <br>
 <br>
 <br>
@@ -12,7 +12,6 @@
 <br>
 <br>   
 
-```
 
 ```
 python 
