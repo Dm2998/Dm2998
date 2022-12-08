@@ -32,14 +32,16 @@ if __name__ == '__main__':
     college()
     course()
 ```
+<br>
+<br>   
 
 ![Dam2998 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dm2998&theme=radical&show_icons=true)
-```
-```
+
+<br>
+<br>   
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=github-readme-stats)
 
-```
-```
 <br>
 <br>
 
@@ -50,7 +52,8 @@ if __name__ == '__main__':
 <br>
 <br> 
 
-
+<br>
+<br>   
 
 <!--
 **Dm2998/Dm2998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
