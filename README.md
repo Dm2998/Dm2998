@@ -77,130 +77,84 @@ if __name__ == '__main__':
 ```
 import turtle
 
-def draw_square():  #draw square
-    if __name__ == '__main__':      # if statement to run the code
-        window = turtle.Screen()
-        window.bgcolor("red")
-        brad = turtle.Turtle()
-        brad.shape("turtle")
-        brad.color("yellow")
-        brad.speed(2)
-        for i in range(4):      #for loop to draw square
-            brad.forward(100)
-            brad.right(90)
-        window.exitonclick()
-        
-def draw_circle():          #draw circle
-    if __name__ == '__main__':    
-        window = turtle.Screen()
-        window.bgcolor("red")
-        angie = turtle.Turtle()
-        angie.shape("arrow")
-        angie.color("blue")
-        angie.circle(100)
-        window.exitonclick() # exit on click
-        
-def draw_triangle():           #draw triangle
-    if __name__ == '__main__':
-        window = turtle.Screen()
-        window.bgcolor("red")
-        tri = turtle.Turtle()
-        tri.shape("arrow")
-        tri.color("green")
-        for i in range(3):        
-            tri.forward(100)
-            tri.right(120)
-        window.exitonclick()
-        
-def pentagon():                  #draw pentagon
-    if __name__ == '__main__':
-        window = turtle.Screen()
-        window.bgcolor("red")
-        pen = turtle.Turtle()
-        pen.shape("arrow")
-        pen.color("green")
-        for i in range(5):        
-            pen.forward(100)
-            pen.right(72)
-        window.exitonclick()
-def hexagon():            #draw hexagon
-    if __name__ == '__main__':
-        window = turtle.Screen()
-        window.bgcolor("red")
-        hex = turtle.Turtle()
-        hex.shape("arrow")
-        hex.color("green")
-        for i in range(6):        
-            hex.forward(100)
-            hex.right(60)
-        window.exitonclick()
-def heptagon():                #draw heptagon
-    if __name__ == '__main__':
-        window = turtle.Screen()
-        window.bgcolor("red")
-        hept = turtle.Turtle()
-        hept.shape("arrow")
-        hept.color("green")
-        for i in range(7):        
-            hept.forward(100)
-            hept.right(51.42)
-        window.exitonclick()
-def octagon():                  #draw octagon
-    if __name__ == '__main__':
-        window = turtle.Screen()
-        window.bgcolor("red")
-        oct = turtle.Turtle()
-        oct.shape("arrow")
-        oct.color("green")
-        for i in range(8):        
-            oct.forward(100)
-            oct.right(45)
-        window.exitonclick()
-def nonagon():                  #draw nonagon
-    if __name__ == '__main__':
-        window = turtle.Screen()
-        window.bgcolor("red")
-        non = turtle.Turtle()
-        non.shape("arrow")
-        non.color("green")
-        for i in range(9):        
-            non.forward(100)
-            non.right(40)
-        window.exitonclick()
-def star():                      #draw star
-    if __name__ == '__main__':
-        window = turtle.Screen()
-        window.bgcolor("red")
-        star = turtle.Turtle()
-        star.shape("arrow")
-        star.color("green")
-        for i in range(5):        
-            star.forward(100)
-            star.right(144)
-        window.exitonclick()
-def spiral():                   #draw spiral
-    if __name__ == '__main__':
-        window = turtle.Screen()
-        window.bgcolor("red")
-        spiral = turtle.Turtle()
-        spiral.shape("arrow")
-        spiral.color("green")
-        for i in range(50):        
-            spiral.forward(100)
-            spiral.right(144)
-        window.exitonclick()
-def draw_art():                  #draw art final
-    draw_square()
-    draw_circle()
-    draw_triangle()
-    pentagon()
-    hexagon()
-    heptagon()
-    octagon()
-    nonagon()
-    star()
-    spiral()
+def draw_circle(turtle, color, size, x, y): #draw circle
+    turtle.color(color)
+    turtle.pensize(size)
+    turtle.penup()
+    turtle.goto(x, y)
+    turtle.pendown()
+    turtle.circle(size)
+    turtle.end_fill()
+    
+def draw_triangle(turtle, color, size, x, y): #draw triangle
+    turtle.color(color)
+    turtle.pensize(size)
+    turtle.penup()
+    turtle.goto(x, y)      #x and y are the coordinates
+    turtle.pendown()
+    turtle.begin_fill()
+    for i in range(3):        
+        turtle.forward(100)
+        turtle.right(120)
+    turtle.end_fill()
+    turtle.setheading(0)
+    
+def draw_square(turtle, color, size, x, y): #draw square
+    turtle.color(color)
+    turtle.pensize(size)
+    turtle.penup()
+    turtle.goto(x, y)
+    turtle.pendown()
+    turtle.begin_fill()
+    for i in range(4):      #for loop to draw square
+        turtle.forward(size * 2)   # size * 2 to make it bigger
+        turtle.forward(100)     # 100 to make it bigger
+        turtle.right(90)         # right 90 degrees
+    turtle.end_fill()      #end fill
+    turtle.setheading(0)
 
+def draw_star(turtle, color, size, x, y): #draw star
+    turtle.color(color)
+    turtle.pensize(size)
+    turtle.penup()
+    turtle.goto(x, y)
+    turtle.pendown()
+    turtle.begin_fill()
+    for i in range(5):          # for loop to draw star
+        turtle.forward(size * 2)    
+        turtle.forward(100)
+        turtle.forward(size * 2)   # size * 2 to make it bigger
+        turtle.right(144)
+    turtle.end_fill()
+    turtle.setheading(0)
+
+def draw_spiral(turtle, color, size, x, y): #draw spiral
+    turtle.color(color)
+    turtle.pensize(size)
+    turtle.penup()
+    turtle.goto(x, y)
+    turtle.pendown()
+    turtle.begin_fill()
+    for i in range(50):         # for loop to draw spiral
+        turtle.forward(size * 2)
+        turtle.forward(100)
+        turtle.forward(size * 2)
+        turtle.right(144)
+    turtle.end_fill()
+    turtle.setheading(0)
+
+def draw_art(): #draw art final
+    window = turtle.Screen()
+    window.bgcolor("red")
+    tri = turtle.Turtle()
+    tri.shape("arrow")
+    tri.color("green")
+    draw_triangle(tri, "green", 100, 0, 0)  #draw triangle
+    draw_square(tri, "green", 100, 0, 0)    #draw square
+    draw_circle(tri, "green", 100, 0, 0)     #draw circle
+    draw_star(tri, "green", 100, 0, 0)       #draw star
+    draw_spiral(tri, "green", 100, 0, 0)     #draw spiral
+    window.exitonclick()             #exit on click
 ```
 
 
