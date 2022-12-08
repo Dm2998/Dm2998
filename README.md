@@ -40,7 +40,7 @@ if __name__ == '__main__':
 <br>
 <br>   
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=github-readme-stats)
 
 <br>
 <br>
