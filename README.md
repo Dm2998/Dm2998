@@ -70,6 +70,9 @@ if __name__ == '__main__':
 <br>   
 
 <summary>:eyes: Example of Trigonometry with Turtle Python. </summary>
+<br>
+<br>  
+
 ```
 import turtle
 
