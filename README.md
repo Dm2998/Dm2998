@@ -15,7 +15,7 @@
 <summary>:eyes: Python Example </summary>
 <br>
 
-
+##
 ``` 
 import datetime
 
@@ -204,6 +204,7 @@ def draw_art():                  #draw art final
 
 <br>
 <br>   
+##
 
 
 ## :sparkling_heart: Contributions are welcome!
