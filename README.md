@@ -61,6 +61,70 @@ if __name__ == '__main__':
 
 
 
+<summary>:eyes: Example of JavaScript. </summary>
+<br>
+<br>   
+
+```
+function add(a, b) {                   // add() function adds two numbers and returns the sum.
+    console.log(a + b);
+    print("the sum is: " + a + b + "!");
+  return a + b;
+}
+
+function subtract(a, b) {                // subtract() function subtracts two numbers and returns the difference.
+    console.log(a - b);
+    print("the difference is: " + a - b + "!");
+    return a - b;
+    }
+
+function multiply(a, b) {                  // multiply() function multiplies two numbers and returns the product.
+    console.log(a * b);
+    print("the product is: " + a * b + "!");
+  return a * b;
+}   
+
+function divide(a, b) {                      // divide() function divides two numbers and returns the quotient.                                             
+    console.log(a / b);
+    print("the quotient is: " + a / b + "!");
+    return a / b;
+    }
+
+function increment(n) {                       // increment() function increments a number by 1.
+    console.log(n += 1);
+    print("the number is: " + n += 1 + "!");
+    return n += 1;
+    }
+
+function decrement(n) {                       // decrement() function decrements a number by 1.
+    console.log(n -= 1);
+    print("the number is: " + n -= 1 + "!");
+    return n -= 1;
+    }
+
+function makeInt(n) {                       // makeInt() function parses a string and returns an integer.
+    console.log(parseInt(n, 10));
+    print("the number is: " + parseInt(n, 10) + "!");
+    return parseInt(n, 10);
+    }
+
+function preserveDecimal(n) {                 // preserveDecimal() function parses a string and returns a floating point number.
+    print("the number is: " + parseFloat(n) + "!");
+    return parseFloat(n);
+    }
+
+
+
+```
+
+
+
+
+
+<br>
+<br>
+
+
 ## dino gif:
  <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
 <br>
