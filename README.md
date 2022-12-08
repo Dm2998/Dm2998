@@ -23,6 +23,17 @@ if __name__ == '__main__':
 ```
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=github-readme-stats)
 
+```
+```
+<br>
+<br>
+
+
+
+## dino gif:
+ <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
+<br>
+<br> 
 
 
 
