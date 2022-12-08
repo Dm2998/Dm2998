@@ -1,5 +1,18 @@
 ### Hi  👋
-```python 
+# Cool Readme profile items :tada::tada::tada:
+
+<br>
+<br>
+
+## my contribution graph get eaten by the snake 🐍:
+<img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
+
+> refer this for complete guide -
+##### *https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66
+<br>
+<br> 
+#python 
+```
 def name ():
     print("Diego", + " " + "Medina")
     print("where are you from?"+ " " + "I am from Venezuela but I live in the ireland")
