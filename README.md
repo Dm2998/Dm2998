@@ -55,5 +55,9 @@ if __name__ == '__main__':
 <br>
 <br>   
 
+## :sparkling_heart: Support the project
+Contributions are welcome! &lt;3
+
+
 <!--
 **Dm2998/Dm2998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
