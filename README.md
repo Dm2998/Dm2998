@@ -55,8 +55,8 @@ if __name__ == '__main__':
 <br>
 <br>   
 
-## :sparkling_heart: Support the project
-Contributions are welcome! &lt;3
+## :sparkling_heart: Contributions are welcome!
+
 
 
 <!--
