@@ -17,22 +17,34 @@
 
 
 ``` 
-def name ():
-    print("Diego", + " " + "Medina")
-    print("where are you from?"+ " " + "I am from Venezuela but I live in the ireland")
-    print ("what is your favourite food?"+ " " + "I like to eat patatas bravas")
-    print ("what is you favourite sport?"+ " " + "I like to play football")
+import datetime
+
+def name():
+    name = input("What is your name?")  #ask the user for his name
+    surname = input("What is your surname?") #ask the user for his surname
+    print ("My name is" + " " + name + " " + surname) #print the name and surname
+    
 def address():
-    print("where do you live?"+ " " + "I live in Dublin")
+    address = input("Where do you live?") #ask the user for his address
+    print ("I live in" + " " + address) #print the address
+
 def college():
-    print ("where do you study?"+ " " + "I study in Technological University Dublin")
+    college = input("Where do you study?") #ask the user for his college
+    print ("I study in" + " " + college) #print the college
+    
 def course():
-    print ("what course are you doing?"+ " " + "I am doing a computer science course" + " " + "in the Cloud Computing")
+    course = input("What course are you doing?") #ask the user for his course
+    print ("I am doing a" + " " + course) #print the course
+
+def date_time():
+    print(datetime.datetime.now()) #print the date and time
+
 if __name__ == '__main__':
     name()
     address()
     college()
     course()
+    date_time()
 ```
 <br>
 <br>   
