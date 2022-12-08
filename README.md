@@ -12,12 +12,11 @@
 <br>
 <br>   
 
-<summary>:eyes: example</summary>
+<summary>:eyes: Python Example </summary>
 <br>
 
 
-```
-python 
+``` 
 def name ():
     print("Diego", + " " + "Medina")
     print("where are you from?"+ " " + "I am from Venezuela but I live in the ireland")
