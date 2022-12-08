@@ -69,9 +69,146 @@ if __name__ == '__main__':
 <br>
 <br>   
 
+<summary>:eyes: Example of Trigonometry with Turtle Python. </summary>
+```
+import turtle
+
+def draw_square():  #draw square
+    if __name__ == '__main__':      # if statement to run the code
+        window = turtle.Screen()
+        window.bgcolor("red")
+        brad = turtle.Turtle()
+        brad.shape("turtle")
+        brad.color("yellow")
+        brad.speed(2)
+        for i in range(4):      #for loop to draw square
+            brad.forward(100)
+            brad.right(90)
+        window.exitonclick()
+        
+def draw_circle():          #draw circle
+    if __name__ == '__main__':    
+        window = turtle.Screen()
+        window.bgcolor("red")
+        angie = turtle.Turtle()
+        angie.shape("arrow")
+        angie.color("blue")
+        angie.circle(100)
+        window.exitonclick() # exit on click
+        
+def draw_triangle():           #draw triangle
+    if __name__ == '__main__':
+        window = turtle.Screen()
+        window.bgcolor("red")
+        tri = turtle.Turtle()
+        tri.shape("arrow")
+        tri.color("green")
+        for i in range(3):        
+            tri.forward(100)
+            tri.right(120)
+        window.exitonclick()
+        
+def pentagon():                  #draw pentagon
+    if __name__ == '__main__':
+        window = turtle.Screen()
+        window.bgcolor("red")
+        pen = turtle.Turtle()
+        pen.shape("arrow")
+        pen.color("green")
+        for i in range(5):        
+            pen.forward(100)
+            pen.right(72)
+        window.exitonclick()
+def hexagon():            #draw hexagon
+    if __name__ == '__main__':
+        window = turtle.Screen()
+        window.bgcolor("red")
+        hex = turtle.Turtle()
+        hex.shape("arrow")
+        hex.color("green")
+        for i in range(6):        
+            hex.forward(100)
+            hex.right(60)
+        window.exitonclick()
+def heptagon():                #draw heptagon
+    if __name__ == '__main__':
+        window = turtle.Screen()
+        window.bgcolor("red")
+        hept = turtle.Turtle()
+        hept.shape("arrow")
+        hept.color("green")
+        for i in range(7):        
+            hept.forward(100)
+            hept.right(51.42)
+        window.exitonclick()
+def octagon():                  #draw octagon
+    if __name__ == '__main__':
+        window = turtle.Screen()
+        window.bgcolor("red")
+        oct = turtle.Turtle()
+        oct.shape("arrow")
+        oct.color("green")
+        for i in range(8):        
+            oct.forward(100)
+            oct.right(45)
+        window.exitonclick()
+def nonagon():                  #draw nonagon
+    if __name__ == '__main__':
+        window = turtle.Screen()
+        window.bgcolor("red")
+        non = turtle.Turtle()
+        non.shape("arrow")
+        non.color("green")
+        for i in range(9):        
+            non.forward(100)
+            non.right(40)
+        window.exitonclick()
+def star():                      #draw star
+    if __name__ == '__main__':
+        window = turtle.Screen()
+        window.bgcolor("red")
+        star = turtle.Turtle()
+        star.shape("arrow")
+        star.color("green")
+        for i in range(5):        
+            star.forward(100)
+            star.right(144)
+        window.exitonclick()
+def spiral():                   #draw spiral
+    if __name__ == '__main__':
+        window = turtle.Screen()
+        window.bgcolor("red")
+        spiral = turtle.Turtle()
+        spiral.shape("arrow")
+        spiral.color("green")
+        for i in range(50):        
+            spiral.forward(100)
+            spiral.right(144)
+        window.exitonclick()
+def draw_art():                  #draw art final
+    draw_square()
+    draw_circle()
+    draw_triangle()
+    pentagon()
+    hexagon()
+    heptagon()
+    octagon()
+    nonagon()
+    star()
+    spiral()
+
+```
+
+<br>
+<br>   
+
+
 ## :sparkling_heart: Contributions are welcome!
 
 
+
+<br>
+<br>   
 
 <!--
 **Dm2998/Dm2998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
