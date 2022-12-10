@@ -1,7 +1,7 @@
 ### Hi  👋
 # Cool!! Welcome to my Readme profile items :tada::tada::tada:
 
-```
+
 
 <div style="display: flex">
   
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/linux-00ADD8?style=for-the-badge&logo=linux&logoColor=white"/>
   
 </div>
-```
+
 
 <br>
 <br>
@@ -306,17 +306,17 @@ def draw_art(): #draw art final
 
 ## 📚Git e Github Commands 
 ```
-ls (list the folders) <br>
-cd .. (go back one directory) <br>
+ls (list the folders) 
+cd .. (go back one directory) 
 <br>
-dir / tree /f (see what's inside the dough) <br>
-mkdir (folder) - create new directories/folders <br>
+dir / tree /f (see what's inside the dough) 
+mkdir (folder) - create new directories/folders 
 git status (Repository status check) <br>
-git add -A (Track what was not tracked, enter all) <br>
-git commit -m (to commit) / git commit -am <br>
+git add -A (Track what was not tracked, enter all) 
+git commit -m (to commit) / git commit -am 
 git log (list of commits) <br>
-git reset (--soft / --mixed / --hard) <br>
-git checkout (Change the current branch) <br>
+git reset (--soft / --mixed / --hard) 
+git checkout (Change the current branch) 
 git diff (Check what happened in the changes)/ git diff --name-only / git diff  (see only the change made to that file) <br>
 git push origin <link> <br>
 git pull origin <link> <br>
@@ -325,7 +325,7 @@ git clone <link> <br>
 Configurações iniciais do Git <br>
 
 Baixando e instalando o Git <br>
-[Site para instalar o Git](https://git-scm.com/downloads) <br>
+[Site para instalar o Git](https://git-scm.com/downloads) 
 
 Configure username: <br>
 git config --global user.name <br>
@@ -334,48 +334,48 @@ Configure user email: <br>
 git config --global user.email email@email.com.br <br>
 
 
-Initialize versioning in the respective directory: <br>
+Initialize versioning in the respective directory: 
 git init <br>
 
-Basic commands: <br>
+Basic commands: 
 
-Checking repository status: <br>
+Checking repository status: 
 git status <br>
 
-Adding all files to be committed: <br>
+Adding all files to be committed: 
 git add . / git add -A <br>
 
 committing files: <br>
-git commit -m "inserir um comentário significativo" <br>
+git commit -m "inserir um comentário significativo" 
 
 Viewing commits report: <br>
 git log // todos os commits <br>
-git log --oneline // exibe log com hash e título do commit <br>
+git log --oneline // exibe log com hash e título do commit 
 
 Adding a remote repository: <br>
-git remote add origin https://github.com/User/Repository.git <br>
+git remote add origin https://github.com/User/Repository.git
 
-Pushing changes to the remote repository: <br>
+Pushing changes to the remote repository:
 git push origin <branch> <br>
 
-Pulling changes from the remote repository: <br>
-git pull origin <branch> <br>
+Pulling changes from the remote repository: 
+git pull origin <branch> 
 
-working with branches: <br>
-git checkout -b nome-branch <br>
+working with branches: 
+git checkout -b nome-branch 
 
 Merging branches: <br>
-git merge nome-branch // needs to be on the target branch <br>
+git merge nome-branch // needs to be on the target branch 
 
-Viewing all existing branches in the repository: <br>
+Viewing all existing branches in the repository: 
 git branch <br>
 
-Deleting a local branch: <br>
-git branch -D nome-branch <br>
-git branch -d nome-branch <br>
+Deleting a local branch: 
+git branch -D nome-branch 
+git branch -d nome-branch 
 
-Deleting a remote branch: <br>
-git push origin :nome-branch <br>
+Deleting a remote branch: 
+git push origin :nome-branch 
 
 ```
 
