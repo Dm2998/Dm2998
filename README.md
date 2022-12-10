@@ -175,12 +175,11 @@ function preserveDecimal(n) {                 // preserveDecimal() function pars
 
 
 ## dino gif:
- <img align="center" src="https://github.com/Dm2998/Dm2998/blob/master/dino.gif" />
+ <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
 <br>
 <br> 
 
-<br>
-<br>   
+
 
 
 # Turtle Python :tada:
