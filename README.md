@@ -386,7 +386,7 @@ git push origin :nome-branch
 
 ## :sparkling_heart: Contributions are welcome!
 
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
+<img align="center" src="https://github.com/Cool-Readme-ideas/blob/master/data/screen open.gif" />
 <br>
 <br>
 <br>
