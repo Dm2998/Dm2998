@@ -12,6 +12,8 @@
 <br>
 <br>   
 
+# Python :tada:
+
 <summary>:eyes: Python Example </summary>
 <br>
 
@@ -59,6 +61,7 @@ if __name__ == '__main__':
 <br>
 <br>
 
+# JavaScript :tada:
 
 
 <summary>:eyes: Example of JavaScript. </summary>
@@ -132,6 +135,9 @@ function preserveDecimal(n) {                 // preserveDecimal() function pars
 
 <br>
 <br>   
+
+
+# Turtle Python :tada:
 
 <summary>:eyes: Example of Trigonometry with Turtle Python. </summary>
 
