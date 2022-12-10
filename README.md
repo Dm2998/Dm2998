@@ -31,7 +31,32 @@
 
 # Python :tada:
 
+## 📚Python
+
+🔖 [Curso de Python 1](https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
+🔖 [Curso de Python 2](https://youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) <br>
+🔖 [Curso de Python 3](https://www.youtube.com/watch?v=XKHEtdqhLK8) <br>
+🔖 [Curso de Python 4](https://www.youtube.com/watch?v=_uQrJ0TkZlc) <br>
+🔖 [Curso de Python 5](https://www.youtube.com/watch?v=rfscVS0vtbw) <br>
+🔖 [Curso de Python 6](https://www.youtube.com/watch?v=8DvywoWv6fI) <br>
+🔖 [Curso de Python 7](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) <br>
+🔖 [Curso de Python 8](https://www.youtube.com/watch?v=t8pPdKYpowI) <br>
+🔖 [Curso de Python 9](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j) <br>
+🔖 [Curso de Python 10](https://solyd.com.br/treinamentos/python-basico/?fbclid=IwAR0WJYyqSTr2E28c2dvqL6HnIfb2DiA1aAB40khxKwFc6L197DfZTK7iQ7k) <br>
+
+
 <summary>:eyes: Python Example </summary>
+
+
+
+
+
+
+
+
+
+
+
 <br>
 
 
