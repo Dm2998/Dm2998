@@ -48,15 +48,6 @@
 <summary>:eyes: Python Example </summary>
 
 
-
-
-
-
-
-
-
-
-
 <br>
 
 
@@ -104,6 +95,22 @@ if __name__ == '__main__':
 <br>
 
 # JavaScript :tada:
+
+## 📚JavaScript
+
+🔖 [Javascript (46 class):](https://goo.gl/zfjfkQ) <br>
+🔖 [Curso de introduç ao Java script](https://youtu.be/i6Oi-YtXnAU) <br>
+🔖 [Curso Java script básico](https://youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm) <br>
+🔖 [Curso Java Script](https://youtube.com/playlist?list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC) <br>
+🔖 [Att Java Script](https://www.rodrigobrito.dev.br/blog/js-0701-javascript-completo-es6-classes) <br>
+🔖 [JavaScript 1](https://www.youtube.com/watch?v=8GPPJpiLqHk) <br>
+🔖 [JavaScript 2](https://www.youtube.com/watch?v=dtKciwk_si4) <br>
+🔖 [JavaScript 3](https://www.youtube.com/watch?v=PkZNo7MFNFg) <br>
+🔖 [JavaScript 4](https://www.youtube.com/watch?v=jS4aFq5-91M) <br>
+🔖 [JavaScript 5](https://www.youtube.com/watch?v=EfAl9bwzVZk) <br>
+🔖 [Cursos de JavaScript](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD) <br>
+🔖 [Playlist de projetos de JS](https://www.youtube.com/playlist?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j) <br>
+🔖 [Fundamentos de JavaScript Funcional](https://www.cod3r.com.br/courses/javascript-funcional-fundamentos) <br>
 
 
 <summary>:eyes: Example of JavaScript. </summary>
