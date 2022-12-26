@@ -184,7 +184,7 @@ function preserveDecimal(n) {                 // preserveDecimal() function pars
 
 # Turtle Python :tada:
 🔖 [Turtle Tutorial](https://www.cs.unh.edu/~cs414/asn/asn5/cs414-a5.html) <br>
-🔖 [Turtle Tutorial2 Build to Video Game,University of Cambridge](https://www.museums.cam.ac.uk/school-sessions/writing-games-using-python-turtle) <br>
+🔖 [Turtle Tutorial2. Build to Video Game, University of Cambridge](https://www.museums.cam.ac.uk/school-sessions/writing-games-using-python-turtle) <br>
 
 <summary>:eyes: Example of Trigonometry with Turtle Python. </summary>
 
