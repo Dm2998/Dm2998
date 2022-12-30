@@ -19,7 +19,7 @@
 
 <img src="https://img.shields.io/badge/linux-00ADD8?style=for-the-badge&logo=linux&logoColor=white"/>
   
- <img src="https://img.shields.io/badge/C-00ADD8?style=for-the-badge&logo=C&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C-00ADD8?style=for-the-badge&logo= C &logoColor=white"/>
   
 </div>
 
