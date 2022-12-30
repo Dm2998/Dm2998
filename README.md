@@ -16,6 +16,8 @@
 
 <img src="https://img.shields.io/badge/linux-00ADD8?style=for-the-badge&logo=linux&logoColor=white"/>
   
+ <img src="https://img.shields.io/badge/DataBase-00ADD8?style=for-the-badge&logo=DataBase&logoColor=white"/>
+  
 </div>
 
 # 🎓Student of Technological University Dublin. 
