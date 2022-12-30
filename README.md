@@ -21,6 +21,11 @@
   
  <img src="https://img.shields.io/badge/C-00ADD8?style=for-the-badge&logo= C &logoColor=white"/>
   
+ <img src="https://img.shields.io/badge/Networking-00ADD8?style=for-the-badge&logo=Networking&logoColor=white"/>
+ 
+ <img src="https://img.shields.io/badge/Perl-00ADD8?style=for-the-badge&logo=Perl&logoColor=white"/>
+  
+ 
 </div>
 
 # 🎓Student of Technological University Dublin. 
