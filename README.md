@@ -34,7 +34,7 @@
 
 # Python :tada:
 
-## 📚Python
+## 📚Learn Python
 
 🔖 [Curso de Python 1](https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
 🔖 [Curso de Python 2](https://youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) <br>
@@ -99,7 +99,7 @@ if __name__ == '__main__':
 
 # JavaScript :tada:
 
-## 📚JavaScript
+## 📚Learn JavaScript
 
 🔖 [Javascript (46 class):](https://goo.gl/zfjfkQ) <br>
 🔖 [Curso de introduç ao Java script](https://youtu.be/i6Oi-YtXnAU) <br>
@@ -174,7 +174,7 @@ function preserveDecimal(n) {                 // preserveDecimal() function pars
 <br>
 <br>
 
-## 📚 jQuery
+## 📚 Learn jQuery
 🔖 [Curso de jQuery 1](https://www.youtube.com/playlist?list=PLoRfWwOOv4jzx5mQTbL_un5KSFEAhkm8K) <br>
 
 
@@ -182,7 +182,7 @@ function preserveDecimal(n) {                 // preserveDecimal() function pars
 <br>
 <br>
 
-## 📚 Cursos de Angular
+## 📚 Learn Angular
 
 🔖 [Curso de Angular 1](https://www.youtube.com/watch?v=k5E2AVpwsko) <br>
 
@@ -190,6 +190,12 @@ function preserveDecimal(n) {                 // preserveDecimal() function pars
 <br>
 <br> 
 
+## 📚Learn Go
+
+🔖 [Curso de GO 1](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) <br>
+
+<br>
+<br> 
 
 ## dino gif:
 
@@ -296,7 +302,7 @@ def draw_art(): #draw art final
 
 # Java :tada:
 
-## 📚 Java
+## 📚 Learn Java
 
 🔖 [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34) <br>
 🔖 [Maratona Java](https://youtu.be/VKjFuX91G5Q) <br>
@@ -338,12 +344,25 @@ public class address {
 
 
 ```
+<br>
+<br>
+# C :tada:
 
+## 📚 Learn C
 
+🔖 [Curso de C 1](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2) <br>
+🔖 [Curso de C 2](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) <br>
+🔖 [Curso de C 3](https://www.youtube.com/playlist?list=PLD28639E2FFC4B86A) <br>
+🔖 [Curso de C 4](https://www.youtube.com/playlist?list=PL78280D6BE6F05D34) <br>
+🔖 [Curso de C 5](https://www.youtube.com/playlist?list=PLGgRtySq3SDMLV8ee7p-rA9y032AU3zT8) <br>
+🔖 [Curso de C 6](https://www.youtube.com/playlist?list=PL8iN9FQ7_jt4DJbeQqv--jpTy-2gTA3Cp) <br>
+
+<br>
+<br>
 
 # Git & Github :tada:
 
-## 📚Git e Github
+## 📚Learn Git e Github
 
 🔖 [Git 4 Noobs](https://github.com/DanielHe4rt/git4noobs) <br>
 🔖 [Comandos Git](https://github.com/theandersonn/comandos-git) <br>
