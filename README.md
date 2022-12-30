@@ -171,12 +171,28 @@ function preserveDecimal(n) {                 // preserveDecimal() function pars
 
 
 ```
+<br>
+<br>
+
+## 📚 jQuery
+🔖 [Curso de jQuery 1](https://www.youtube.com/playlist?list=PLoRfWwOOv4jzx5mQTbL_un5KSFEAhkm8K) <br>
+
+
 
 <br>
 <br>
+
+## 📚 Cursos de Angular
+
+🔖 [Curso de Angular 1](https://www.youtube.com/watch?v=k5E2AVpwsko) <br>
+
+
+<br>
+<br> 
 
 
 ## dino gif:
+
  <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
 <br>
 <br> 
