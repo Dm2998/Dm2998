@@ -346,9 +346,8 @@ public class address {
 ```
 <br>
 <br>
-# C :tada:
 
-## 📚 Learn C
+## 📚 Learn C :tada:
 
 🔖 [Curso de C 1](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2) <br>
 🔖 [Curso de C 2](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) <br>
