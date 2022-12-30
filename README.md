@@ -107,6 +107,18 @@ if __name__ == '__main__':
 <br>
 <br>
 
+
+<br>
+<br>   
+# Perl :tada:
+
+## 📚Learn Perl
+🔖 [Perl-Tutorial](https://www.youtube.com/@bermnz) <br>
+
+
+<br>
+<br>
+
 # JavaScript :tada:
 
 ## 📚Learn JavaScript
