@@ -114,6 +114,27 @@ if __name__ == '__main__':
 ## 📚Learn Perl :tada:
 🔖 [Perl-Tutorial](https://www.youtube.com/@bermnz) <br>
 
+```
+#!/usr/bin/perl
+
+# Get lengths of triangle sides from user
+print "Enter the length of the first side: ";
+my $a = <STDIN>;
+print "Enter the length of the second side: ";
+my $b = <STDIN>;
+print "Enter the length of the third side: ";
+my $c = <STDIN>;
+
+# Calculate semi-perimeter
+my $s = ($a + $b + $c) / 2;
+
+# Calculate area using Heron's formula
+my $area = sqrt($s * ($s - $a) * ($s - $b) * ($s - $c));
+
+# Print area
+print "The area of the triangle is $area\n";
+```
+
 
 <br>
 <br>
