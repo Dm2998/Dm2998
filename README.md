@@ -141,12 +141,12 @@ These operators are: >, <, ==, !=, <=, >= for numeric values,
                 and gt, lt, eq, ne, le, ge for string values.
                 
 # Type	Numeric	String
-<th>Greater Than:>	gt</th>
-Less Than:	<	lt
-Equal to:	==	eq
-Not equal:	!=	ne
-Less than or equal to:	<=	le
-Greater than or equal to:	>=	ge
+# <th>Greater Than:>	gt</th>
+# Less Than:<	 lt
+# Equal to:	== eq
+# Not equal:	!=	ne
+# Less than or equal to:	<=	le
+# Greater than or equal to:	>=	ge
 
 # String Operators
 $a=2;
