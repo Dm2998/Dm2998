@@ -141,7 +141,7 @@ These operators are: >, <, ==, !=, <=, >= for numeric values,
                 and gt, lt, eq, ne, le, ge for string values.
                 
 # Type	Numeric	String
-Greater Than:>	gt
+<th>Greater Than:>	gt</th>
 Less Than:	<	lt
 Equal to:	==	eq
 Not equal:	!=	ne
