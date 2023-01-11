@@ -107,10 +107,6 @@ if __name__ == '__main__':
 <br>
 <br>
 
-
-<br>
-<br>   
-
 ## 📚Learn Perl :tada:
 🔖 [Perl-Tutorial](https://www.youtube.com/@bermnz) <br>
 
@@ -147,21 +143,6 @@ my $area = sqrt($s * ($s - $a) * ($s - $b) * ($s - $c));
 # Print area
 print "The area of the triangle is $area\n";
 
-# Comparison Operators
-The basic arithmetic operators in Perl are: +, -, *, /, %, and **.
-Comparison operators are used to compare two values and they return a boolean value. Perl provides several comparison operators that you can use to compare values. Comparison operators can be used for numeric and string values. 
-These operators are: >, <, ==, !=, <=, >= for numeric values, 
-                and gt, lt, eq, ne, le, ge for string values.
-                
-
-# Type Numeric	String
-[Greater Than: >	gt]
-[Less Than: >	gt]
-[Not Equal: == eq]
-[Not-Equel: != ne]
-[Less than or equal to: <= le]
-[Greater than or equal to:	>=	ge]
-
 # String Operators
 $a=2;
 $a=3;
@@ -177,7 +158,6 @@ my $b = "apple";
 my $result = $a eq $b;
 print $result; # false
 ```
-
 
 <br>
 <br>
