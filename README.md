@@ -141,7 +141,7 @@ These operators are: >, <, ==, !=, <=, >= for numeric values,
                 and gt, lt, eq, ne, le, ge for string values.
                 
 # Type Numeric	String
-- [<th>Greater Than: >	gt](#github-stats-card)
+[<th>Greater Than: >	gt](#github-stats-card)
  <th>Greater Than: >	gt
 # Less Than:<	 lt
 # Equal to:	== eq
