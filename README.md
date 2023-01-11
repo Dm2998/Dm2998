@@ -110,6 +110,10 @@ if __name__ == '__main__':
 
 ## 📚Learn Perl :tada:
 🔖 [Perl-Tutorial](https://www.youtube.com/@bermnz) <br>
+🔖 [Perl-Tutorial.2](https://perldoc.perl.org/) <br>
+🔖 [Perl-Tutorial.3](https://www.perlmonks.org/) <br>
+🔖 [Perl-Tutorial.4](https://www.perl.org/) <br>
+🔖 [Perl-Tutorial.4](https://www.perl.org/) <br>
 
 
 # Type Numeric	String
