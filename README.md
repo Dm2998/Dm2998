@@ -140,8 +140,9 @@ Comparison operators are used to compare two values and they return a boolean va
 These operators are: >, <, ==, !=, <=, >= for numeric values, 
                 and gt, lt, eq, ne, le, ge for string values.
                 
-# Type	Numeric	String
-# <th>Greater Than:>	gt</th>
+# Type Numeric	String
+- [<th>Greater Than: >	gt](#github-stats-card)
+ <th>Greater Than: >	gt
 # Less Than:<	 lt
 # Equal to:	== eq
 # Not equal:	!=	ne
