@@ -134,12 +134,21 @@ my $area = sqrt($s * ($s - $a) * ($s - $b) * ($s - $c));
 # Print area
 print "The area of the triangle is $area\n";
 
+# Comparison Operators
+The basic arithmetic operators in Perl are: +, -, *, /, %, and **.
+Comparison operators are used to compare two values and they return a boolean value. Perl provides several comparison operators that you can use to compare values. Comparison operators can be used for numeric and string values. 
+These operators are: >, <, ==, !=, <=, >= for numeric values, 
+                and gt, lt, eq, ne, le, ge for string values.
+                
+# Type	Numeric	String
+Greater Than:>	gt
+Less Than:	<	lt
+Equal to:	==	eq
+Not equal:	!=	ne
+Less than or equal to:	<=	le
+Greater than or equal to:	>=	ge
 
-#The basic arithmetic operators in Perl are: +, -, *, /, %, and **.
-#Comparison operators are used to compare two values and they return a boolean value. Perl provides several comparison operators that you can use to compare values. #Comparison operators can be used for numeric and string values. These operators are: >, <, ==, !=, <=, >= for numeric values, and gt, lt, eq, ne, le, ge for string #values.
-
-
-#String Operators
+# String Operators
 $a=2;
 $a=3;
 print $a+$b   #arithmetic operator prints 5
@@ -147,7 +156,7 @@ print $a.$b   #string operator prints 2 plus the three or 23
 print $a*$b   #arithmetic operator prints 6
 print $a x $b #string operators prints $a $b times or 2 three times. i
 
-#
+# example 
 
 my $a = "Apple";
 my $b = "apple";
