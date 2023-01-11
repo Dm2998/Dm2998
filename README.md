@@ -114,7 +114,15 @@ if __name__ == '__main__':
 ## 📚Learn Perl :tada:
 🔖 [Perl-Tutorial](https://www.youtube.com/@bermnz) <br>
 
+
+# Type Numeric	String
 [Greater Than: >	gt](#Greater-Than:->-gt)
+[Less Than: >	gt](#Less-Than:-<-lt)
+[Not Equal: == eq](#Not-Equeal:-==eq)
+[Not-Equel: != ne](#Not-Equeal:-!=-ne)
+[Less than or equal to: <= le](#Less-than-or-equal-to:-<=-le)
+[Greater than or equal to:	>=	ge](#Greater-than-or-equal-to:->=-ge)
+
 ```
 #!/usr/bin/perl
 
@@ -141,14 +149,6 @@ Comparison operators are used to compare two values and they return a boolean va
 These operators are: >, <, ==, !=, <=, >= for numeric values, 
                 and gt, lt, eq, ne, le, ge for string values.
                 
-# Type Numeric	String
-[Greater Than: >	gt](#Greater-Than:->-gt)
- <th>Greater Than: >	gt
-# Less Than:<	 lt
-# Equal to:	== eq
-# Not equal:	!=	ne
-# Less than or equal to:	<=	le
-# Greater than or equal to:	>=	ge
 
 # String Operators
 $a=2;
