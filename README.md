@@ -581,8 +581,29 @@ This will install the dependencies specified in your package.json.
 Check for typos:
 Ensure there are no typos in the script name or in the command. The script name is case-sensitive, so make sure it's exactly "start" in lowercase.
 ```
+<br>
+
+## 📚mongodb 
+```
+1. Issue the following operation at the command libeto report the name of the
+current database:
+db
+2. From the mongo shell, display the list of databases, with the following operation:
+show dbs
+[show databases - is another way]
+3. Switch to a new database named mydb, with the following operation:
+use mydb
+Confirm that your session has the mydb database as context, by checking the value
+of the db object, which returns the name of the current database, as follows:
+db
+Note: At this point, if you issue the show dbs operation again, it will not include
+the mydb database. MongoDB will not permanently create a database until you
+insert data into that database. show databases also returns a list of
+databases.
 
 
+
+```
 <br>
 <br>   
 
