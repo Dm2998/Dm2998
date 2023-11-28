@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Dm2998)
 ### Hi  👋
-# Cool!!! Welcome to my Readme profile items :tada::tada::tada:
+# Cool!!! Welcome to my Readme profile items. :tada::tada::tada:
 
 
 
