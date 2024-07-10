@@ -208,6 +208,7 @@ print $result; # false
 🔖 [Cursos de JavaScript](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD) <br>
 🔖 [Playlist de projetos de JS](https://www.youtube.com/playlist?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j) <br>
 🔖 [Fundamentos de JavaScript Funcional](https://www.cod3r.com.br/courses/javascript-funcional-fundamentos) <br>
+🔖 [Fundamentos de JavaScript Funcional](https://templatemo.com/page/1) <br>
 
 <br>
 🔖 [Learn JavaScript and More for Desing Website ](https://www.javatpoint.com/how-to-create-a-dynamic-table-in-javascript) <br>
