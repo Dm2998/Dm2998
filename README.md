@@ -26,7 +26,7 @@
  
  <img src="https://img.shields.io/badge/Perl-00ADD8?style=for-the-badge&logo=Perl&logoColor=white"/>
  
- <img src="https://img.shields.io/badge/Docker-00ADD8?style=for-the-badge&logo=Docker&logoColor=#0C2340"/>
+ <img src="https://img.shields.io/badge/Docker-00ADD8?style=for-the-badge&logo=Docker&logoColor=#002244"/>
   
  
 </div>
@@ -44,7 +44,9 @@
 </p>
 <br>
 <br>
-## Cloud Containers & Kubernetes :tada:
+# Cloud :tada:
+
+## Containers & Kubernetes 
 <br>
 ##  📚Learn Cloud
 <br>
@@ -55,6 +57,8 @@
 ##  📚Learn Kubernetes
 <br>
 <br>
+🔖 [Learn Kubernetes](https://github.com/vladimirvivien/k8s-client-examples) <br>
+
 <br>
 <br>
 <br>   
@@ -201,7 +205,9 @@ print $result; # false
 🔖 [Playlist de projetos de JS](https://www.youtube.com/playlist?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j) <br>
 🔖 [Fundamentos de JavaScript Funcional](https://www.cod3r.com.br/courses/javascript-funcional-fundamentos) <br>
 
-
+<br>
+🔖 [Learn JavaScript and More for Desing Website ](https://www.javatpoint.com/how-to-create-a-dynamic-table-in-javascript) <br>
+<br>
 <summary>:eyes: Example of JavaScript. </summary>
 <br>
 <br>   
