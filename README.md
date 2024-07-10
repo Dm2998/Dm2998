@@ -46,9 +46,8 @@
 <br>
 
 <div>
-## Cloud :tada:
 
-## Containers & Kubernetes 
+## Containers & Kubernetes 📚
 <br>
 🔖 📚Learn Cloud
 <br>
