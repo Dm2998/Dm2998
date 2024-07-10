@@ -212,6 +212,19 @@ print $result; # false
 <br>
 🔖 [Learn JavaScript and More for Desing Website ](https://www.javatpoint.com/how-to-create-a-dynamic-table-in-javascript) <br>
 <br>
+<br>
+🔖 [Color - Desing Website ](https://cssgradient.io/shades-of-blue/) <br>
+🔖 [Color 1 - Desing Website ](https://www.w3schools.com/colors/color_tryit.asp?hex=F8F8FF) <br>
+🔖 [Color 2 - Desing Website ](https://www.w3schools.com/colors/colors_groups.asp#gsc.tab=0) <br>
+🔖 [Color 3 - Desing Website ](https://getbootstrap.com/docs/5.3/utilities/float/) <br>
+🔖 [Color 4 icon - Desing Website ](https://icons.getbootstrap.com/icons/sort-alpha-down/) <br>
+🔖 [Color 5 Remove BackGround - Desing Website ](https://www.remove.bg/upload) <br>
+🔖 [Color 6 Template - Desing Website ](https://bootstrapmade.com/) <br>
+🔖 [Color 7 Template - Desing Website ](https://cloudinary.com/guides/image-effects/creating-an-image-overlay-with-javascript) <br>
+
+
+
+<br>
 <summary>:eyes: Example of JavaScript. </summary>
 <br>
 <br>   
