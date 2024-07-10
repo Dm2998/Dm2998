@@ -65,8 +65,8 @@
 <br>
 <br>   
 
-# Python :tada:
-
+<h1> Python :tada: </h1>h1>
+<br>
 ## 📚Learn Python
 
 🔖 [Curso de Python 1](https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
