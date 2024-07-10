@@ -44,21 +44,23 @@
 </p>
 <br>
 <br>
+<div>
 # Cloud :tada:
 
 ## Containers & Kubernetes 
 <br>
-##  📚Learn Cloud
+🔖 📚Learn Cloud
 <br>
 <br>
-##  📚Learn Containers
+🔖  📚Learn Containers
 <br>
 <br>
-##  📚Learn Kubernetes
+🔖  📚Learn Kubernetes
 <br>
 <br>
 🔖 [Learn Kubernetes](https://github.com/vladimirvivien/k8s-client-examples) <br>
 
+</div>
 <br>
 <br>
 <br>   
