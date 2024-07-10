@@ -58,7 +58,9 @@
 🔖  📚Learn Kubernetes
 <br>
 <br>
-🔖 [Learn Kubernetes](https://github.com/vladimirvivien/k8s-client-examples) <br>
+🔖 [Learn Kubernetes 1](https://github.com/vladimirvivien/k8s-client-examples) <br>
+🔖 [Learn Kubernetes 2 ojo](https://github.com/akyriako?tab=repositories) <br>
+
 
 </div>
 <br>
