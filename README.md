@@ -26,7 +26,7 @@
  
  <img src="https://img.shields.io/badge/Perl-00ADD8?style=for-the-badge&logo=Perl&logoColor=white"/>
  
- <img src="https://img.shields.io/badge/Perl-00ADD8?style=for-the-badge&logo=Docker&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Docker-00ADD8?style=for-the-badge&logo=Docker&logoColor=white"/>
   
  
 </div>
