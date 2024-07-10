@@ -20,13 +20,13 @@
 
 <img src="https://img.shields.io/badge/linux-00ADD8?style=for-the-badge&logo=linux&logoColor=white"/>
   
- <img src="https://img.shields.io/badge/C-00ADD8?style=for-the-badge&logo= C &logoColor=white"/>
+ <img src="https://img.shields.io/badge/C-00ADD8?style=for-the-badge&logo= C &logoColor=#AFDBF5"/>
   
  <img src="https://img.shields.io/badge/Networking-00ADD8?style=for-the-badge&logo=Networking&logoColor=white"/>
  
  <img src="https://img.shields.io/badge/Perl-00ADD8?style=for-the-badge&logo=Perl&logoColor=white"/>
  
- <img src="https://img.shields.io/badge/Docker-00ADD8?style=for-the-badge&logo=Docker&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Docker-00ADD8?style=for-the-badge&logo=Docker&logoColor=#48D1CC"/>
   
  
 </div>
