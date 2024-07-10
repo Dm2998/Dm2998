@@ -263,6 +263,7 @@ function preserveDecimal(n) {                 // preserveDecimal() function pars
 ## 📚Learn Go
 
 🔖 [Curso de GO 1](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) <br>
+🔖 [Curso de GO 2](https://github.com/vladimirvivien/learning-go/tree/master) <br>
 
 <br>
 <br> 
