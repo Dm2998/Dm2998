@@ -222,7 +222,7 @@ print $result; # false
 🔖 [Color 5 Remove BackGround - Desing Website ](https://www.remove.bg/upload) <br>
 🔖 [Color 6 Template - Desing Website ](https://bootstrapmade.com/) <br>
 🔖 [Color 7 Template - Desing Website ](https://cloudinary.com/guides/image-effects/creating-an-image-overlay-with-javascript) <br>
-
+🔖 [Color 8 Template - Desing Website ](https://templatemo.com/page/1) <br>
 
 
 <br>
