@@ -1,3 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e126e&height=120&section=header"/>
+
+<br>
+
+
 ![](https://komarev.com/ghpvc/?username=Dm2998)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3e126e&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Diego+Alexander;Cool!!+Welcome+My+Readme+Profile+Perfil!+:%29)](https://git.io/typing-svg) :tada::tada::tada:
