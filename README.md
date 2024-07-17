@@ -1,12 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=Dm2998)
 ### Hi  👋  
-````
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?
 color=3e126e&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Diego+Alexander;Studing+Of+ComputerScienc+in+the;+Technological+University+Dublin;Cool+Welcome+to+my+Readme+Profile+Perfil!+:%29)](https://git.io/typing-svg)
 :tada::tada::tada:
-````
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3e126e&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Renata+Da+Silva;Tenho+16+Anos;+sou+aluna+de+informática+do+instituto+federal;Seja+Bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3e126e&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Diego+Alexander;+Studing+Of+Computer+Scienc+in+the+Technological+University+Dublin;Cool+Welcome+My+Readme+Profile+Perfil!+:%29)](https://git.io/typing-svg)
 
 <div style="display: flex">
   
