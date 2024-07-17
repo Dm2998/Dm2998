@@ -1,5 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=Dm2998)
-### Hi  👋  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3e126e&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Diego+Alexander;Cool!!+Welcome+My+Readme+Profile+Perfil!+:%29)](https://git.io/typing-svg) :tada::tada::tada:
 
@@ -32,7 +31,7 @@
  
 </div>
 
-# 🎓Student of Technological University Dublin. 
+# 🎓Student of Technological University Dublin. 👋  
 
 
 <br>
