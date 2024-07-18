@@ -659,7 +659,7 @@ databases.
 <br>
 <br>
 <br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e126e&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFAFA&height=120&section=footer"/>
 <!--
 **Dm2998/Dm2998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
