@@ -39,7 +39,7 @@
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![devang snake gif](https://github.com/devang-7/devang-7/blob/master/github-user-contribution.svg)
+![devang snake gif](https://github.com/Dm2998/devang-7/blob/master/github-user-contribution.svg)
 
 
 
