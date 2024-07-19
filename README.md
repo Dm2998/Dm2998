@@ -213,6 +213,9 @@ print $result; # false
 🔖 [Playlist de projetos de JS](https://www.youtube.com/playlist?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j) <br>
 🔖 [Fundamentos de JavaScript Funcional](https://www.cod3r.com.br/courses/javascript-funcional-fundamentos) <br>
 🔖 [Fundamentos de JavaScript Funcional](https://templatemo.com/page/1) <br>
+🔖 [Fundamentos de JavaScript Funcional](https://github.com/Mitesh411/MyResume) <br>
+🔖 [Fundamentos de JavaScript Funcional](https://bootstrapmade.com/php-email-form/) <br>
+🔖 [Fundamentos de JavaScript Funcional]() <br>
 
 <br>
 🔖 [Learn JavaScript and More for Desing Website ](https://www.javatpoint.com/how-to-create-a-dynamic-table-in-javascript) <br>
