@@ -31,6 +31,13 @@
  <img src="https://img.shields.io/badge/Perl-00ADD8?style=for-the-badge&logo=Perl&logoColor=white"/>
  
  <img src="https://img.shields.io/badge/Docker-00ADD8?style=for-the-badge&logo=Docker&logoColor=#002244"/>
+
+
+
+ ### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![devang snake gif](https://github.com/Dm2998/Dm2998/blob/master/github-user-contribution.svg)
   
  
 </div>
