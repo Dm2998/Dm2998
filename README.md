@@ -318,14 +318,19 @@ function preserveDecimal(n) {                 // preserveDecimal() function pars
 <br>
 
 ## 📚 Learn jQuery
+<br>
+📚 Top playlists to start programming in jQuery:
+<br>
 🔖 [Curso de jQuery 1](https://www.youtube.com/playlist?list=PLoRfWwOOv4jzx5mQTbL_un5KSFEAhkm8K) <br>
 
 
 
 <br>
-<br>
 
 ## 📚 Learn Angular
+<br>
+📚 Top playlists to start programming in Angular:
+<br>
 
 🔖 [Curso de Angular 1](https://www.youtube.com/watch?v=k5E2AVpwsko) <br>
 
@@ -334,6 +339,9 @@ function preserveDecimal(n) {                 // preserveDecimal() function pars
 <br> 
 
 ## 📚Learn Go
+<br>
+📚 Top playlists to start programming in Go:
+<br>
 
 🔖 [Curso de GO 1](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) <br>
 🔖 [Curso de GO 2](https://github.com/vladimirvivien/learning-go/tree/master) <br>
@@ -344,15 +352,21 @@ function preserveDecimal(n) {                 // preserveDecimal() function pars
 ## dino gif:
 
  <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
+ 
 <br>
 <br> 
 
 
 
 
-# Turtle Python :tada:
+## 📚Learn Turtle Python :tada:
+<br>
+🐢 Learn Python Turtle Graphics
+<br>
 🔖 [Turtle Tutorial](https://www.cs.unh.edu/~cs414/asn/asn5/cs414-a5.html) <br>
 🔖 [Turtle Tutorial2. Build to Video Game, University of Cambridge](https://www.museums.cam.ac.uk/school-sessions/writing-games-using-python-turtle) <br>
+
+<details> <summary>🎨 <b>Example: Shapes with Turtle</b></summary>
 
 <summary>:eyes: Example of Trigonometry with Turtle Python. </summary>
 
@@ -444,9 +458,14 @@ def draw_art(): #draw art final
 
 
 
-# Java :tada:
+</details>
+<br>
 
-## 📚 Learn Java
+# Java :tada:
+<br>
+## 📚 Learn Java ☕
+<br>
+📚 Recommended tutorials to get started with Java:
 
 🔖 [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34) <br>
 🔖 [Maratona Java](https://youtu.be/VKjFuX91G5Q) <br>
@@ -458,6 +477,9 @@ def draw_art(): #draw art final
 🔖 [Curso de Java 2](https://youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r) <br>
 🔖 [Curso de Java 3](https://youtube.com/playlist?list=PLucm8g_ezqNrQmqtO0qmew8sKXEEcaHvc) <br>
 
+<br>
+<details> <summary>☕ <b>Example: Shapes with Java </b></summary>
+  
 ```
 
 public class Main {
@@ -488,10 +510,15 @@ public class address {
 
 
 ```
+
+</details>
 <br>
 <br>
 
 ## 📚 Learn C :tada:
+<br>
+📚 Top playlists to start programming in C:
+<br>
 
 🔖 [Curso de C 1](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2) <br>
 🔖 [Curso de C 2](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) <br>
@@ -506,6 +533,9 @@ public class address {
 # Git & Github :tada:
 
 ## 📚Learn Git e Github
+<br>
+📚 Master version control and collaboration with these resources:
+<br>
 
 🔖 [Git 4 Noobs](https://github.com/DanielHe4rt/git4noobs) <br>
 🔖 [Comandos Git](https://github.com/theandersonn/comandos-git) <br>
@@ -515,6 +545,11 @@ public class address {
 
 
 ## 📚Git e Github Commands 
+
+<br> 
+<details> <summary>📘 <b>Common Git Commands</b></summary>
+
+
 ```
 ls (list the folders) 
 cd .. (go back one directory) 
@@ -588,10 +623,14 @@ Deleting a remote branch:
 git push origin :nome-branch 
 
 ```
+</details>
 <br>
 
 
 ## 📚Selenium Webdriver Commands.
+<br>
+<details> <summary> <b>Selenium </b></summary>
+<br>
 ```
 Update Selenium Webdriver:
 It seems like your Selenium Webdriver version might be outdated. Try updating it to the latest version by running the following command:
@@ -621,6 +660,7 @@ npm test
 └── selenium-webdriver@4.9.0
 
 ```
+</details>
 <br>
 
 ```
@@ -657,7 +697,10 @@ Ensure there are no typos in the script name or in the command. The script name 
 ```
 <br>
 
-## 📚mongodb 
+## 📚mongodb
+📚 Useful commands to get started with MongoDB:
+
+<details> <summary> <b>Mongo DB</b></summary>
 ```
 1. Issue the following operation at the command libeto report the name of the
 current database:
@@ -675,9 +718,20 @@ the mydb database. MongoDB will not permanently create a database until you
 insert data into that database. show databases also returns a list of
 databases.
 
+# Check current database
+db
 
+# List databases
+show dbs
+
+# Switch to a database
+use mydb
+
+# Display collections
+show collections
 
 ```
+</details>
 <br>
 <br>   
 
