@@ -83,10 +83,6 @@
 <br>
 <br>   
 
-<h1> Python :tada: </h1>h1>
-<br>
-
-
 ## 🐍 Learn Python
 
 📚 A collection of free Python courses and tutorials to master the basics and beyond:
