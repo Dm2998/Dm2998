@@ -660,7 +660,7 @@ npm test
 └── selenium-webdriver@4.9.0
 
 ```
-</details>
+
 <br>
 
 ```
@@ -695,6 +695,8 @@ This will install the dependencies specified in your package.json.
 Check for typos:
 Ensure there are no typos in the script name or in the command. The script name is case-sensitive, so make sure it's exactly "start" in lowercase.
 ```
+
+</details>
 <br>
 
 ## 📚mongodb
