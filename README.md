@@ -97,6 +97,10 @@
 🔖 [Curso de Python 8](https://www.youtube.com/watch?v=t8pPdKYpowI) <br>
 🔖 [Curso de Python 9](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j) <br>
 🔖 [Curso de Python 10](https://solyd.com.br/treinamentos/python-basico/?fbclid=IwAR0WJYyqSTr2E28c2dvqL6HnIfb2DiA1aAB40khxKwFc6L197DfZTK7iQ7k) <br>
+<br>
+
+
+<details><summary>💻 <b>Python Example</b></summary>
 
 
 <summary>:eyes: Python Example </summary>
@@ -135,6 +139,7 @@ if __name__ == '__main__':
     course()
     date_time()
 ```
+</details>
 <br>
 <br>   
 
