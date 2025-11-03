@@ -743,6 +743,8 @@ show collections
 
 
 ## :sparkling_heart: Contributions Are Welcome!.
+
+<br>
 <br>
 
 <img align="center" src="https://github.com/Dm2998/Cool-Readme-ideas/blob/master/data/screen open.gif" />
