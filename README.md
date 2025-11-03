@@ -149,13 +149,17 @@ if __name__ == '__main__':
 <br>
 
 ## 📚Learn Perl :tada:
+
+📚 Explore the Perl programming language with these beginner-friendly resources:
+<br>
+
 🔖 [Perl-Tutorial 1](https://www.youtube.com/@bermnz) <br>
 🔖 [Perl-Tutorial 2](https://perldoc.perl.org/) <br>
 🔖 [Perl-Tutorial 3](https://www.perlmonks.org/) <br>
 🔖 [Perl-Tutorial 4](https://www.perl.org/) <br>
 🔖 [Perl-Tutorial 5](https://www.perl.org/) <br>
 
-
+<details> <summary>💻 <b>Perl Example</b></summary>
 # Type Numeric	String
 The basic arithmetic operators in Perl are: +, -, *, /, %, and **.
 Comparison operators are used to compare two values and they return a boolean value. Perl provides several comparison operators that you can use to compare values. Comparison operators can be used for numeric and string values. 
