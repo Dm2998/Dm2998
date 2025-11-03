@@ -705,6 +705,8 @@ Ensure there are no typos in the script name or in the command. The script name 
 📚 Useful commands to get started with MongoDB:
 
 <details> <summary> <b>Mongo DB</b></summary>
+<br>
+  
 ```
 1. Issue the following operation at the command libeto report the name of the
 current database:
@@ -740,7 +742,7 @@ show collections
 <br>   
 
 
-## :sparkling_heart: Contributions are welcome!
+## :sparkling_heart: Contributions Are Welcome!.
 
 <img align="center" src="https://github.com/Dm2998/Cool-Readme-ideas/blob/master/data/screen open.gif" />
 <br>
