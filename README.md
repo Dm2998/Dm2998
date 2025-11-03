@@ -70,18 +70,16 @@
 
 
 
+<br>   
 
+<br>
 
+# 🌱 Continue Learning & Growing as a Developer
 
+> Here you’ll find a collection of resources, tutorials, and code examples I use to expand my knowledge in different technologies.  
+> Take your time exploring and keep learning — **Welcome!**
 
-
-
-
-
-
-
-
-
+---
 <br>
 <br>   
 
