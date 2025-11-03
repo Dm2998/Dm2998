@@ -214,7 +214,7 @@ print $result; # false
 
 # JavaScript :tada:
 
-## 📚Learn JavaScript
+📚 Essential tutorials to get started with JavaScript — from basics to advanced projects:
 
 🔖 [Javascript (46 class):](https://goo.gl/zfjfkQ) <br>
 🔖 [Curso de introduç ao Java script](https://youtu.be/i6Oi-YtXnAU) <br>
@@ -250,6 +250,8 @@ print $result; # false
 
 
 <br>
+<details> <summary>💻 <b>JavaScript Example</b></summary>
+
 <summary>:eyes: Example of JavaScript. </summary>
 <br>
 <br>   
@@ -305,6 +307,8 @@ function preserveDecimal(n) {                 // preserveDecimal() function pars
 
 
 ```
+</details>
+
 <br>
 <br>
 
