@@ -621,8 +621,8 @@ git branch -d nome-branch
 
 Deleting a remote branch: 
 git push origin :nome-branch 
-
 ```
+
 </details>
 <br>
 
@@ -631,6 +631,8 @@ git push origin :nome-branch
 <br>
 <details> <summary> <b>Selenium </b></summary>
 <br>
+
+
 ```
 Update Selenium Webdriver:
 It seems like your Selenium Webdriver version might be outdated. Try updating it to the latest version by running the following command:
@@ -659,11 +661,11 @@ npm test
 ├── mocha@10.2.0
 └── selenium-webdriver@4.9.0
 
-```
+
 
 <br>
 
-```
+
 
  Let's go through the steps to resolve this issue:
 
