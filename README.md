@@ -736,40 +736,151 @@ This will install the dependencies specified in your package.json.
 </details>
 <br>
 
-## 📚mongodb
+## 📚Mongodb
 📚 Useful commands to get started with MongoDB:
 
 <details> <summary> <b>Mongo DB</b></summary>
 <br>
   
 ```
-1. Issue the following operation at the command libeto report the name of the
-current database:
-db
-2. From the mongo shell, display the list of databases, with the following operation:
-show dbs
-[show databases - is another way]
-3. Switch to a new database named mydb, with the following operation:
-use mydb
-Confirm that your session has the mydb database as context, by checking the value
-of the db object, which returns the name of the current database, as follows:
-db
-Note: At this point, if you issue the show dbs operation again, it will not include
-the mydb database. MongoDB will not permanently create a database until you
-insert data into that database. show databases also returns a list of
-databases.
 
-# Check current database
-db
+🛠️ MongoDB Shell Basics: Installation & Core Commands
 
-# List databases
-show dbs
+1. Installation and Access
+Before running any commands, you need to install MongoDB and access the shell.
 
-# Switch to a database
-use mydb
 
-# Display collections
-show collections
+Download MongoDB.	  Download and install the MongoDB Community Server edition for your operating system from the official MongoDB website.	This includes the server and the necessary tools.
+
+
+Start the Server.	      Ensure the MongoDB daemon (mongod) is running in the background.	On most systems, this starts automatically or is run via a service.
+
+
+Access the Shell.          	Open your terminal/command prompt and issue the command to launch the MongoDB Shell.	mongosh is the modern command line interface. The legacy command was mongo.
+
+
+mongosh.       	Launch the MongoDB Shell	Connects to the default local MongoDB server running on port 27017.
+
+
+2. 🗄️ Database Management Commands
+These commands allow you to see, switch between, and create databases.
+
+Command	Description	Example Output
+db            	Report the name of the database currently in context for your session.
+test (or the name of the database you last used)
+
+show dbs                   (or show databases)	List all databases that contain at least one document (i.e., that have been permanently created).
+
+use <database_name>	        Switch your session's context to the specified database. If the database doesn't exist, MongoDB creates a reference to it.
+
+📝 Important Note on Database Creation
+MongoDB does not permanently create a database (meaning it won't show up in show dbs) until you insert data (e.g., a document into a collection) within that database's context.
+
+Example Flow:
+use myTempDB $\implies$ Database reference created.
+show dbs $\implies$ myTempDB is NOT listed.
+db.users.insertOne({ name: "Alice" }) $\implies$ Data inserted.
+show dbs $\implies$ myTempDB IS NOW listed.
+
+3. 📚 Collection Management Commands
+Collections are the equivalent of tables in a relational database, holding your documents (records).
+
+show collections	                             Display a list of all collections within the current database context (db).
+
+db.createCollection("<collection_name>")	    Explicitly create a new collection (optional, as collections are created automatically upon first insert).
+
+db.<collection_name>.drop()	                   Delete an entire collection from the current database.
+
+Example:
+
+Assuming you have switched to the myNewProjectDB context:
+show collections $\implies$ Lists: users, products, ordersdb.
+products.drop() $\implies$ Deletes the products collection.
+
+4. ✍️ Basic Data Operations (CRUD)
+These are the fundamental commands for interacting with documents (your data records) within a collection.
+
+CREATE (Insert)	             db.<collection>.insertOne()	              db.users.insertOne({ name: "Bob", age: 30 })
+
+READ (Query)	            db.<collection>.find()	                      db.users.find() (shows all documents)
+   
+UPDATE                   db.<collection>.updateOne()	                  db.users.updateOne({ name: "Bob" }, { $set: { age: 31 } })
+
+DELETE	                    db.<collection>.deleteOne()               	db.users.deleteOne({ name: "Bob" })
+
+
+🔍 The .find() Method: Querying Documents
+The .find() method accepts two main parameters:
+
+db.<collectionName>.find(<query>, <projection>)
+
+# <query> (Mandatory): A document that specifies the selection criteria (i.e., the conditions documents must meet to be returned). If you pass an empty document ({}), it returns all documents in the collection.
+
+# <projection> (Optional): A document that specifies which fields to include or exclude in the result set.
+
+1. Simple Equality Queries
+To find documents where a field exactly matches a value, use the structure { <field>: <value> }.
+
+
+Example Query:
+db.users.find({ age: 30 })                	              Finds all documents in the users collection where the age field is exactly 30.
+
+db.products.find({ category: "Electronics" })	            Finds all products categorized as Electronics.
+
+db.orders.find({ "customer.id": 123 })	                  Finds all orders where the nested field customer.id is 123.
+
+
+2. Comparison Operators
+MongoDB uses comparison operators (prefixed with $) to perform non-equality checks.
+
+Operator Example Query
+$gt	         Greater Than	                             db.items.find({ price: { $gt: 50 } })
+$gte	       Greater Than or Equal	                   db.items.find({ quantity: { $gte: 10 } })
+$lt	         Less Than	                               db.items.find({ stock: { $lt: 5 } })
+$lte	       Less Than or Equal	                       db.items.find({ score: { $lte: 90 } })
+$ne	         Not Equal to	                             db.users.find({ status: { $ne: "Archived" } })
+$in	         Value in an array of possibilities	       db.users.find({ country: { $in: ["USA", "Canada"] } })
+$nin	        Value not in an array of possibilities	 db.users.find({ country: { $nin: ["Mexico", "Brazil"] } })
+
+3. Logical Operators
+You can combine multiple criteria using logical operators.
+
+Operator	Description	Example Query
+$and	       Requires all conditions to be true (usually implicit).     db.users.find({ age: { $gt: 25 }, status: "active" })
+$or          Requires at least one condition to be true.	              db.users.find({ $or: [ { age: 25 }, { status: "pending" } ] })
+$not	       Inverts the effect of a query expression.                 	db.users.find({ age: { $not: { $gt: 50 } } }) (Age is 50 or less)
+$nor	       Requires none of the conditions to be true.	              db.users.find({ $nor: [ { age: 25 }, { status: "pending" } ] })
+
+Example of $and (Implicit): The query { age: { $gt: 25 }, status: "active" } is equivalent to: { $and: [ { age: { $gt: 25 } }, { status: "active" } ] }
+
+
+4. Projection (Selecting Fields)
+The optional second argument in .find() is the projection, which controls the shape of the documents returned. This is key for performance, as you only retrieve necessary data.
+
+To include a field, set its value to 1.
+
+To exclude a field, set its value to 0.
+
+The _id field is included by default unless explicitly excluded.
+
+Example Query	
+db.users.find({}, { name: 1, email: 1 })	               Return only the name, email, and _id fields.
+db.users.find({}, { _id: 0, name: 1, email: 1 })	       Return only the name and email fields (excluding _id).
+db.users.find({}, { password: 0 })	                     Return all fields except the password.
+
+5. Cursor Modifiers
+The .find() method returns a cursor, which you can chain methods onto to refine the results.
+
+
+Command	Description	Example
+.limit(<n>)	          Restrict the number of documents returned.	                          db.products.find().limit(10)
+.skip(<n>)	          Skip a specified number of documents (used for pagination).     	   db.products.find().skip(20).limit(10)
+.sort(<field: 1/-1>)	Sort the results (1 for ascending, -1 for descending).	             db.products.find().sort({ price: -1 })
+.count()	     Return the total number of documents matching the query (used instead of .find()).  	 db.products.count({ inStock: true })
+
+
+
+
 
 ```
 </details>
