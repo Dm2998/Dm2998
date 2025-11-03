@@ -1,75 +1,87 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=header"/>
 
-
 ![](https://komarev.com/ghpvc/?username=Dm2998)
-<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5F5F5&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Diego+Alexander;Cool!!+Welcome+My+Readme+Profile+Perfil!+:%29)](https://git.io/typing-svg) :tada::tada::tada:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5F5F5&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Diego+Alexander!;Welcome+to+my+GitHub+Profile!+👋)](https://git.io/typing-svg)
 
-<br>
+---
 
-<div style="display: flex">
-  
-<img src="https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB"/>
-  
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  
-<img src="https://img.shields.io/badge/DataBase-00ADD8?style=for-the-badge&logo=DataBase&logoColor=white"/>
-   
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+## 👨‍💻 About Me
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+- 🎯 I’m looking for a **permanent entry-level role** in **technologies I continue learning**, and to contribute as part of a team.  
+- 🎓 I’m a **recent graduate** in *Computing Science with Cloud IT Management* from [**Technological University Dublin**](https://www.tudublin.ie/).  
+- 🌱 I’m currently learning **Go**, **MQTT**, and **Sensor integration** to expand my full-stack and IoT development skills.  
+- 📍 Based in **Dublin, Ireland**.  
+- 💬 Passionate about **clean code**, **problem-solving**, and **continuous learning** in **cloud, virtualization, and infrastructure technologies**.
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+---
 
-<img src="https://img.shields.io/badge/linux-00ADD8?style=for-the-badge&logo=linux&logoColor=white"/>
-  
- <img src="https://img.shields.io/badge/C-00ADD8?style=for-the-badge&logo= C &logoColor=#AFDBF5"/>
-  
- <img src="https://img.shields.io/badge/Networking-00ADD8?style=for-the-badge&logo=Networking&logoColor=white"/>
- 
- <img src="https://img.shields.io/badge/Perl-00ADD8?style=for-the-badge&logo=Perl&logoColor=white"/>
- 
- <img src="https://img.shields.io/badge/Docker-00ADD8?style=for-the-badge&logo=Docker&logoColor=#002244"/>
- 
+## 🧠 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
 
+---
 
+## 🧩 Currently Learning
 
-# 🎓Student of Technological University Dublin. 👋  
+<div align="center">
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=internetofthings&logoColor=white)
 
-<br>
-<br>
-<br>
+</div>
 
-## logos:
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego2998/?locale=en_US)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego2998@gmail.com)
+
+</div>
+
+---
+
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100">
 </p>
-<br>
-<br>
 
-<div>
-
-## Containers & Kubernetes 📚
-<br>
-🔖 📚Learn Cloud
-<br>
-<br>
-🔖  📚Learn Containers
-🔖 [Learn Kubernetes 1](https://github.com/Garymcn17/DockerCMS) <br>
-<br>
-<br>
-🔖  📚Learn Kubernetes
-<br>
-<br>
-🔖 [Learn Kubernetes 1](https://github.com/vladimirvivien/k8s-client-examples) <br>
-🔖 [Learn Kubernetes 2 ojo](https://github.com/akyriako?tab=repositories) <br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer"/>
 
 
-</div>
-<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br>
 <br>   
 
