@@ -551,76 +551,77 @@ public class address {
 
 
 ```
-ls (list the folders) 
-cd .. (go back one directory) 
-<br>
-dir / tree /f (see what's inside the dough) 
-mkdir (folder) - create new directories/folders 
-git status (Repository status check) <br>
-git add -A (Track what was not tracked, enter all) 
-git commit -m (to commit) / git commit -am 
-git log (list of commits) <br>
-git reset (--soft / --mixed / --hard) 
-git checkout (Change the current branch) 
-git diff (Check what happened in the changes)/ git diff --name-only / git diff  (see only the change made to that file) <br>
-git push origin <link> <br>
-git pull origin <link> <br>
-git clone <link> <br>
+💻 Essential Terminal Commands
+These commands are used for navigating and managing files and directories on your operating system (Windows, macOS, Linux).
 
-Configurações iniciais do Git <br>
-
-Baixando e instalando o Git <br>
-[Site para instalar o Git](https://git-scm.com/downloads) 
-
-Configure username: <br>
-git config --global user.name <br>
-
-Configure user email: <br>
-git config --global user.email email@email.com.br <br>
+Command	
+ls	          List files and folders in the current directory (Common on Unix/Linux/macOS).
+dir	          List files and folders in the current directory (Common on Windows).
+tree /f	      See a tree structure of what's inside the directory (Common on Windows).
+cd ..	        Go back one directory level.
+mkdir         (folder_name)
 
 
-Initialize versioning in the respective directory: 
-git init <br>
+⚙️ Git Setup and Initial Configuration
+These steps are typically done once when you first start using Git on a new machine.
 
-Basic commands: 
+Install Git	Site for install Git	Download and install Git for your operating system.
 
-Checking repository status: 
-git status <br>
+Set Username: 	git config --global user.name "Your Name" 	       Configure your global username for commits.
+Set Email:     	git config --global user.email "your@email.com"	   Configure your global email for commits.
 
-Adding all files to be committed: 
-git add . / git add -A <br>
+🗂️ Git Repository Management
+These commands are used to create, link, and get a Git repository.
+Command	
+git init	                Initialize versioning in the current directory, creating a new local Git repository.
+git clone <link>	        Clone an existing repository from a remote URL to your local machine.
+git remote                add origin <link>
 
-committing files: <br>
-git commit -m "inserir um comentário significativo" 
 
-Viewing commits report: <br>
-git log // todos os commits <br>
-git log --oneline // exibe log com hash e título do commit 
+✅ Git Basic Workflow
+This is the standard process for saving changes (committing) in Git.
 
-Adding a remote repository: <br>
-git remote add origin https://github.com/User/Repository.git
+Command	
+git status	                                        Check the current state of the repository (shows modified, staged, and untracked files).
+git add . or git add -A	                            Add all changes (new, modified, deleted) to the staging area.
+git commit -m "Your descriptive message"	          Commit the staged changes with a descriptive message.
+git commit -am "Message"	                          Add all tracked and modified files to the staging area and commit them in one step.
 
-Pushing changes to the remote repository:
-git push origin <branch> <br>
 
-Pulling changes from the remote repository: 
-git pull origin <branch> 
+➡️ Git Collaboration & SyncingThese commands are used to interact with the remote repository (e.g., on GitHub).
+Command
+push origin <branch>                                    Push your local committed changes to the specified remote branch.
+git pull origin <branch>Pull (fetch and merge)          changes from the remote branch into your current local branch.
 
-working with branches: 
-git checkout -b nome-branch 
 
-Merging branches: <br>
-git merge nome-branch // needs to be on the target branch 
 
-Viewing all existing branches in the repository: 
-git branch <br>
+🌳 Git Branching and MergingThese commands are essential for managing separate lines of development.
+Command
+igt branchView                                                   All existing local branches.
+git checkout <branch>                                            Switch to an existing branch.
+git checkout -b <new-branch-name>                                Create a new branch and immediately switch to it.
+git merge <branch-to-merge>                                      Merge the specified branch into your current branch.
+git branch -d <branch-name> or git branch -D <branch-name>       Delete a local branch (use -D for an unmerged branch).
+git push origin :<branch-name>                                   Delete a remote branch.
 
-Deleting a local branch: 
-git branch -D nome-branch 
-git branch -d nome-branch 
 
-Deleting a remote branch: 
-git push origin :nome-branch 
+🔍 Git Inspection and HistoryThese commands help you look at the history and compare changes.
+Command
+git log                      List the history of commits.
+git log --oneline            List the history with a concise hash and commit title.
+git diff                     Check the un-staged changes between your working directory and the last commi.
+git diff --name-only         Check only the names of the files that have changed.
+git diff <file-name>         Check only the changes made to a specific file.
+git diff --staged            Check changes in the staging area.
+
+⏪ Git Undoing Changes (Reset)
+These commands allow you to revert or modify history.
+
+Command
+git reset --soft <commit-hash>                            Undoes commits but keeps all changes staged (git status shows files ready to commit).
+git reset --mixed <commit-hash>                           Undoes commits and un-stages all changes (git status shows files modified). This is the default.
+git reset --hard <commit-hash>                            Undoes commits and discards all changes in the working directory (use with caution).
+
 ```
 
 </details>
@@ -629,11 +630,50 @@ git push origin :nome-branch
 
 ## 📚Selenium Webdriver Commands.
 <br>
-<details> <summary> <b>Selenium </b></summary>
+<details> <summary> <b>🚀 Setting Up Selenium WebDriver and ChromeDriver.</b></summary>
 <br>
 
 
 ```
+
+The most common cause of errors in Selenium is a mismatch between the Chrome Browser version, the ChromeDriver executable version, and the Selenium WebDriver library version.
+
+1. Update Selenium WebDriver (The Library)
+Always ensure the Selenium library itself is the latest version. This command updates the code your tests use to communicate with the browser.
+
+Command	Description
+npm install selenium-webdriver@latest	                 Installs the latest version of the core Selenium library into your project.
+
+
+Use Selenium Manager (Recommended for Selenium v4.6+)
+Recent versions of selenium-webdriver (v4.6.0 and newer) include Selenium Manager. This tool automatically downloads and manages the correct ChromeDriver version for your installed Chrome browser. You usually don't need to install chromedriver separately at all.
+
+In your code (Node.js):
+
+If you are using Selenium Manager, your code should automatically find the driver:
+
+const { Builder } = require('selenium-webdriver');
+const driver = await new Builder().forBrowser('chrome').build();
+// Selenium Manager automatically finds the correct ChromeDriver path.
+
+
+B. Use a Third-Party Package (Alternative for older versions)
+If you must manage the driver yourself, use a package like webdriver-manager or chromedriver to handle installation and versioning.
+
+npm install --save-dev chromedriver                  Installs the chromedriver executable as a project dependency.
+
+
+3. Troubleshooting: Checking Your Dependencies
+Your current dependencies show this potential issue:
+selenium-webdriver	        4.9.0	           Modern version that supports Selenium Manager.
+chromedriver	             112.0.0	         This is a specific, older version (Chrome 112).
+
+Potential Issue: If your Chrome browser has updated to a newer version (e.g., Chrome 120+), the explicit chromedriver@112.0.0 will be too old, leading to compatibility errors.
+Update chromedriver to the latest version, which usually matches the latest Chrome browser.
+
+npm update chromedriver                     Updates chromedriver to its latest available version on npm.
+
+
 Update Selenium Webdriver:
 It seems like your Selenium Webdriver version might be outdated. Try updating it to the latest version by running the following command:
 
@@ -662,10 +702,7 @@ npm test
 └── selenium-webdriver@4.9.0
 
 
-
 <br>
-
-
 
  Let's go through the steps to resolve this issue:
 
@@ -694,8 +731,6 @@ bash
 npm install
 This will install the dependencies specified in your package.json.
 
-Check for typos:
-Ensure there are no typos in the script name or in the command. The script name is case-sensitive, so make sure it's exactly "start" in lowercase.
 ```
 
 </details>
