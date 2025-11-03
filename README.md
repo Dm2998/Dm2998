@@ -85,7 +85,11 @@
 
 <h1> Python :tada: </h1>h1>
 <br>
-## 📚Learn Python
+
+
+## 🐍 Learn Python
+
+📚 A collection of free Python courses and tutorials to master the basics and beyond:
 
 🔖 [Curso de Python 1](https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
 🔖 [Curso de Python 2](https://youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) <br>
