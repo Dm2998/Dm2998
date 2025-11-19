@@ -111,12 +111,13 @@
 
 ---
 
----
-## 💻 Project Showcase & Technical Stack
 
-| **Featured Project** | **Project Overview & Key Achievements** | **Top Languages** |
-| :--- | :--- | :--- |
-| [![Featured Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=CA2_Devops_24&theme=dark&hide_border=true)](https://github.com/Dm2998/CA2_Devops_24) | **Project:** Player Management Application (CI/CD DevOps)<br>**Overview:** A Flask-based web application demonstrating a comprehensive, fully automated CI/CD pipeline integrated with Azure DevOps.<br>**Key Achievements:**<br>* **100% Automated Pipeline:** Full automation from commit to deployment (Test Environment).<br>* **Security:** Integrated **Bandit** (static analysis) and **Safety** (dependency scanning).<br>* **Containerization:** Uses **Docker** for consistent build and runtime environments.<br>* **Testing:** Implements **Unit Tests**, **Performance Testing** (Apache Benchmark), and **End-to-End UAT** using **Selenium**.<br>* **Tech Stack:** Python Flask, HTML/JS, Azure DevOps. | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dm2998&layout=compact&theme=dark&hide_border=true&exclude_languages=Jupyter%20Notebook,%20Shell,%20Dockerfile,%20HCL)](https://github.com/Dm2998) |
+---
+## 💻 Featured Project & Language Stack
+
+| **Featured Project** | **Most Used Languages** |
+| :--- | :--- |
+| [![Featured Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=CA2_Devops_24&theme=dark&hide_border=true)](https://github.com/Dm2998/CA2_Devops_24) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dm2998&layout=compact&theme=dark&hide_border=true&exclude_languages=Jupyter%20Notebook,CSS,Shell,C#,HCL&langs_count=14)](https://github.com/Dm2998) |
 
 ---
 
