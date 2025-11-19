@@ -146,11 +146,26 @@ if __name__ == '__main__':
 
 
 ---
-## 📊 My GitHub Activity
+---
 
-### Overall Performance & Language Use
+### 📈 GitHub Statistics
 
-[![Diego Alexander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dm2998&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/Dm2998)
+| Overall Stats | Key Repository |
+| :--- | :--- |
+| **Overall Performance & Activity** <br> [![Dm2998 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dm2998&theme=default&show_icons=true&hide_border=true&count_private=true)](https://github.com/Dm2998) | **Featured Project: github-readme-stats** <br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=github-readme-stats&theme=default&hide_border=true)](https://github.com/Dm2998/github-readme-stats) |
+
+### 🔥 Contribution Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dm2998&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+### 🏆 Featured Projects
+
+* **[Project Name 1]** - A full-stack application demonstrating JWT authentication and complex database querying (Node.js, Express, MongoDB, React).
+    * [Link to Repository]
+* **[Project Name 2]** - A data visualization tool built with Python and Pandas, demonstrating data cleaning and analysis skills.
+    * [Link to Repository]
 
 ---
 
