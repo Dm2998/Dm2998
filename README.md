@@ -32,6 +32,21 @@
 
 </div>
 
+<br>   
+
+---
+
+### Language Use
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=github-readme-stats&theme=dark&hide_border=true)](https://github.com/Dm2998/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dm2998&layout=compact&theme=dark&hide_border=true)](https://github.com/Dm2998)
+
+---
+
+
+<br>
+
+
 ---
 
 ## 🧩 Currently Learning
@@ -45,6 +60,8 @@
 </div>
 
 ---
+
+<br>
 
 ## 🤝 Connect With Me
 
@@ -140,77 +157,7 @@ if __name__ == '__main__':
     date_time()
 ```
 </details>
-<br>
-<br>   
 
-
-
----
----
-
-### 📈 GitHub Statistics
-
-| Overall Stats | Key Repository |
-| :--- | :--- |
-| **Overall Performance & Activity** <br> [![Dm2998 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dm2998&theme=default&show_icons=true&hide_border=true&count_private=true)](https://github.com/Dm2998) | **Featured Project: github-readme-stats** <br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=github-readme-stats&theme=default&hide_border=true)](https://github.com/Dm2998/github-readme-stats) |
-
-### 🔥 Contribution Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dm2998&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
----
-
-### Featured Project: Live Site
-
-[![Featured Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=Ca2-DiegoM&theme=dark&hide_border=true)](https://github.com/Dm2998/Ca2-DiegoM)
-
-* 🌐 **Live URL:** [https://dm2998.github.io/Ca2-DiegoM/](https://dm2998.github.io/Ca2-DiegoM/)
-* 
-
-
-
----
-
-## 📊 My GitHub Activity
-
-### Overall Performance & Language Use
-
-[![Dm2998 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dm2998&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/Dm2998)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dm2998&layout=compact&theme=dark&hide_border=true)](https://github.com/Dm2998)
-
-### Daily Contribution Consistency
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dm2998&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-### Featured Project
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=github-readme-stats&theme=dark&hide_border=true)](https://github.com/Dm2998/github-readme-stats)
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-
-<br>
 <br>
 
 ## 📚Learn Perl :tada:
