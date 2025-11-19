@@ -160,13 +160,11 @@ if __name__ == '__main__':
 
 ---
 
-### 🏆 Featured Projects
+### Featured Project: Live Site
 
-* **[Project Name 1]** - A full-stack application demonstrating JWT authentication and complex database querying (Node.js, Express, MongoDB, React).
-    * [Link to Repository]
-* **[Project Name 2]** - A data visualization tool built with Python and Pandas, demonstrating data cleaning and analysis skills.
-    * [Link to Repository]
+[![Featured Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=Ca2-DiegoM&theme=dark&hide_border=true)](https://github.com/Dm2998/Ca2-DiegoM)
 
+* 🌐 **Live URL:** [https://dm2998.github.io/Ca2-DiegoM/](https://dm2998.github.io/Ca2-DiegoM/)
 ---
 
 
