@@ -159,7 +159,11 @@ if __name__ == '__main__':
 
 ### Featured Project
 
-[![Featured Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=YOUR-BEST-REPO&theme=dark&hide_border=true)](https://github.com/Dm2998/YOUR-BEST-REPO)
+### Featured Project: Live Site
+
+[![Featured Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=Ca2-DiegoM&theme=dark&hide_border=true)](https://github.com/Dm2998/Ca2-DiegoM)
+
+* 🌐 **Live URL:** [https://dm2998.github.io/Ca2-DiegoM/](https://dm2998.github.io/Ca2-DiegoM/)
 ---
 
 
