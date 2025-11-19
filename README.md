@@ -93,7 +93,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=github-readme-stats&theme=dark&hide_border=true)](https://github.com/Dm2998/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dm2998&layout=compact&theme=dark&hide_border=true&exclude_languages=Jupyter%20Notebook&langs_count=12)](https://github.com/Dm2998)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dm2998&layout=compact&theme=dark&hide_border=true&exclude_languages=Jupyter%20Notebook&langs_count=14)](https://github.com/Dm2998)
 
 ---
 
