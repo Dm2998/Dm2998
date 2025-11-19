@@ -143,12 +143,24 @@ if __name__ == '__main__':
 <br>
 <br>   
 
-![Dam2998 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dm2998&theme=radical&show_icons=true)
+---
 
-<br>
-<br>   
+## 📊 My GitHub Activity
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=github-readme-stats)
+### Overall Performance & Language Use
+
+[![Dm2998 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dm2998&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/Dm2998)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dm2998&layout=compact&theme=dark&hide_border=true)](https://github.com/Dm2998)
+
+### Daily Contribution Consistency
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dm2998&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+### Featured Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=github-readme-stats&theme=dark&hide_border=true)](https://github.com/Dm2998/github-readme-stats)
+
+---
 
 <br>
 <br>
