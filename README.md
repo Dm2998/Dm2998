@@ -75,7 +75,6 @@
 
 <br>   
 
-<br>
 
 # 🌱 Continue Learning & Growing as a Developer
 
@@ -83,9 +82,10 @@
 > Take your time exploring and keep learning — **Welcome!**
 
 ---
+
+
 <br>
 
-<br>   
 
 ---
 
