@@ -107,7 +107,7 @@
 
 | **Featured Project** | **Most Used Languages** |
 | :--- | :--- |
-| [![Featured Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=CA2_Devops_24M&theme=dark&hide_border=true)](https://github.com/Dm2998/CA2_Devops_24) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dm2998&layout=compact&theme=dark&hide_border=true&exclude_languages=Jupyter%20Notebook&langs_count=14)](https://github.com/Dm2998) |
+| [![Featured Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=CA2_Devops_24&theme=dark&hide_border=true)](https://github.com/Dm2998/CA2_Devops_24) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dm2998&layout=compact&theme=dark&hide_border=true&exclude_languages=Jupyter%20Notebook&langs_count=14)](https://github.com/Dm2998) |
 
 ---
 
