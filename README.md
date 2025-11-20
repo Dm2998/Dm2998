@@ -90,6 +90,7 @@
 ## 📚Learn Python :tada:
 
 📚 Explore the Python programming language with these beginner-friendly resources:
+
 🔖 [Python - Flask Tutorial ](https://www.tutorialspoint.com/flask/index.htm) <br>
 
 🔖 [Python - Flask Tutorial 1](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) <br>
