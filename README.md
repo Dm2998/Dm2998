@@ -120,6 +120,10 @@ git log --date=short --pretty=format:'%ad' | sort | uniq -c
 <br>
 
 
+
+
+<details> <summary>💻 <b> PythonExample</b></summary>
+
 ``` 
 import datetime
 
