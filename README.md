@@ -119,6 +119,19 @@
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dm2998&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+
+---
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dm2998&theme=dark&hide_border=true)
+
+
+---
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dm2998&theme=github-compact)
+
+---
 
 <br>
 
