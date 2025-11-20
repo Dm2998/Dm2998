@@ -108,27 +108,10 @@
 
 ---
 
----
-
-### 📊 GitHub Stats & Contributions (All-Time)
-
-| **Overall Stats** | **Top Languages** |
-| :--- | :--- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dm2998&show_icons=true&count_private=true&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dm2998&layout=compact&theme=tokyonight&hide_border=true) |
+git log --date=short --pretty=format:'%ad' | sort | uniq -c
 
 ---
 
-### 🔥 Contribution Streak (All-Time)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dm2998&theme=tokyonight&hide_border=true)
-
----
-
-### 📈 Activity Graph (All-Time)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dm2998&theme=tokyo-night&hide_border=true)
-
----
 
 <br>
 
