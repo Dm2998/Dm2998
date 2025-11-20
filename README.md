@@ -97,6 +97,29 @@
 <br>
 
 
+---
+### 📊 GitHub Stats & Contributions
+
+| **Overall Activity** | **Top Languages** |
+| :--- | :--- |
+| [![dm2998 GitHub Stats](https://github-readme-stats.vercel.app/api?username=dm2998&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/dm2998) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dm2998&layout=compact&theme=dark&hide_border=true&exclude_languages=Jupyter%20Notebook,HCL,Perl,PLSQL,INI)](https://github.com/dm2998) |
+
+### 🔥 Consistency & Visual History
+
+| **Contribution Streak** | **Activity Graph** |
+| :--- | :--- |
+| [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dm2998&theme=dark&hide_border=true)](https://git.io/streak-stats) | [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dm2998&theme=github-compact)](https://github.com/dm2998) |
+
+---
+
+
+
+
+
+
+<br>
+
+
 ## 🐍 Learn Python
 
 📚 A collection of free Python courses and tutorials to master the basics and beyond:
