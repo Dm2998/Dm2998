@@ -108,68 +108,13 @@
 
 ---
 
+
+<br>
+
+```
 git log --date=short --pretty=format:'%ad' | sort | uniq -c
+```
 
-<br>
-
----
-# 📊 GitHub Developer Dashboard
-
-## 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dm2998&show_icons=true&include_all_commits=true)
-
-## 🌐 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dm2998&layout=compact)
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=dm2998)
-
-## 📈 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dm2998&theme=react-dark)
-
----
-
-# 🚀 PR & Code Review Metrics (Manual Values)
-These will only work if you run the *github-metrics* Python tool locally.  
-For now, placeholders remain:
-
-| Metric | Value |
-|--------|--------|
-| ⏱️ Time To Merge | `RUN_TOOL_OUTPUT` |
-| 🕒 Time To Review | `RUN_TOOL_OUTPUT` |
-| 🧭 Time To Open | `RUN_TOOL_OUTPUT` |
-| 🔄 Open → Merge Time | `RUN_TOOL_OUTPUT` |
-| 📦 PR Size (added/deleted) | `RUN_TOOL_OUTPUT` |
-| 🔥 Hotfix Count | `RUN_TOOL_OUTPUT` |
-| 📌 PR Count | `RUN_TOOL_OUTPUT` |
-| 📈 Merge Rate | `RUN_TOOL_OUTPUT` |
-
-
----
-
-<br>
-
-## 🐍 Learn Python
-
-📚 A collection of free Python courses and tutorials to master the basics and beyond:
-
-🔖 [Curso de Python 1](https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
-🔖 [Curso de Python 2](https://youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) <br>
-🔖 [Curso de Python 3](https://www.youtube.com/watch?v=XKHEtdqhLK8) <br>
-🔖 [Curso de Python 4](https://www.youtube.com/watch?v=_uQrJ0TkZlc) <br>
-🔖 [Curso de Python 5](https://www.youtube.com/watch?v=rfscVS0vtbw) <br>
-🔖 [Curso de Python 6](https://www.youtube.com/watch?v=8DvywoWv6fI) <br>
-🔖 [Curso de Python 7](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) <br>
-🔖 [Curso de Python 8](https://www.youtube.com/watch?v=t8pPdKYpowI) <br>
-🔖 [Curso de Python 9](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j) <br>
-🔖 [Curso de Python 10](https://solyd.com.br/treinamentos/python-basico/?fbclid=IwAR0WJYyqSTr2E28c2dvqL6HnIfb2DiA1aAB40khxKwFc6L197DfZTK7iQ7k) <br>
-<br>
-
-
-<details><summary>💻 <b>Python Example</b></summary>
-
-
-<summary>:eyes: Python Example </summary>
 
 
 <br>
