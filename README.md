@@ -112,6 +112,15 @@
 ![Monthly Commits](https://github-readme-activity-graph.vercel.app/graph?username=dm2998&theme=github-compact&hide_border=true&radius=8&area=true&custom_title=Monthly%20Contribution%20Overview)
 
 
+---
+
+[![dm2998 GitHub Stats](https://github-readme-stats.vercel.app/api?username=dm2998&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/dm2998)
+
+
+---
+
+
+<br>
 
 ## 🐍 Learn Python
 
