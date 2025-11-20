@@ -96,22 +96,17 @@
 ---
 <br>
 
+### 📊 GitHub Stats & Contributions
 
-## 📊 GitHub Commit Activity — 2025 Overview
+| **Overall Activity** | **Top Languages** |
+| :--- | :--- |
+| [![dm2998 GitHub Stats](https://github-readme-stats.vercel.app/api?username=dm2998&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/dm2998) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dm2998&layout=compact&theme=dark&hide_border=true)](https://github.com/dm2998) |
 
-### 🔥 2025 Commit Stats (Commits Only)
-![2025 Commit Stats](https://github-readme-stats.vercel.app/api?username=dm2998&show_icons=false&include_all_commits=true&count_private=true&theme=dark&hide_border=true&hide=stars,prs,issues,contribs)
+### 🔥 Consistency & Visual History
 
----
-
-### 📈 2025 Contribution Graph
-![2025 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dm2998&theme=github-compact&hide_border=true&custom_title=2025%20Contribution%20Activity)
-
----
-
-### 🔄 2025 Contribution Streak
-![2025 Streak](https://nirzak-streak-stats.vercel.app/?user=dm2998&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=00C2FF&ring=00C2FF&currStreakLabel=00C2FF&sideNums=FFFFFF)
-
+| **Contribution Streak** | **Activity Graph** |
+| :--- | :--- |
+| [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dm2998&theme=dark&hide_border=true)](https://git.io/streak-stats) | [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dm2998&theme=github-compact)](https://github.com/dm2998) |
 
 <br>
 
