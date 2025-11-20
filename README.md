@@ -320,6 +320,15 @@ function preserveDecimal(n) {                 // preserveDecimal() function pars
 </details>
 
 <br>
+
+## 📚 Learn Typescript
+<br>
+📚 Top playlists to start programming in Typescript:
+<br>
+🔖 [Curso de Typescript](https://learnxinyminutes.com/typescript/) <br>
+
+
+
 <br>
 
 ## 📚 Learn jQuery
