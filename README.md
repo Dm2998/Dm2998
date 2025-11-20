@@ -110,6 +110,36 @@
 
 git log --date=short --pretty=format:'%ad' | sort | uniq -c
 
+<br>
+
+---
+
+![2025 Commits](https://github-readme-stats.vercel.app/api?username=dm2998&show_icons=true&theme=dark&hide_border=true&commits_year=2025&custom_title=Commits%20in%202025)
+
+---
+![2024 Commits](https://github-readme-stats.vercel.app/api?username=dm2998&show_icons=true&theme=dark&hide_border=true&commits_year=2024&custom_title=Commits%20in%202024)
+
+
+---
+![All Time Commits](https://github-readme-stats.vercel.app/api?username=dm2998&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&custom_title=All%20Time%20Commit%20Count)
+
+
+---
+
+## 📊 GitHub Commit Metrics
+
+### 🗓️ 2025 Commit Count
+![2025 Commits](https://github-readme-stats.vercel.app/api?username=dm2998&show_icons=true&theme=dark&hide_border=true&commits_year=2025&custom_title=Commits%20in%202025)
+
+### 🗓️ 2024 Commit Count
+![2024 Commits](https://github-readme-stats.vercel.app/api?username=dm2998&show_icons=true&theme=dark&hide_border=true&commits_year=2024&custom_title=Commits%20in%202024)
+
+### 🌍 All-Time Commits
+![All Time Commits](https://github-readme-stats.vercel.app/api?username=dm2998&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&custom_title=All%20Time%20Commit%20Count)
+
+
+
+
 ---
 
 
