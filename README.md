@@ -113,41 +113,25 @@ git log --date=short --pretty=format:'%ad' | sort | uniq -c
 <br>
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_HERE&show_icons=true&include_all_commits=true)
-
-
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_HERE&layout=compact)
-
-
----
-    
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME_HERE)
-
-
----
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_HERE&theme=react-dark)
-
----
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME_HERE&repo=REPO_NAME)](https://github.com/USERNAME_HERE/REPO_NAME)
-
-
----
 # 📊 GitHub Developer Dashboard
 
 ## 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_HERE&show_icons=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_HERE&layout=compact)
-![Streak Stats](https://streak-stats.demolab.com?user=USERNAME_HERE)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_HERE&theme=react-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dm2998&show_icons=true&include_all_commits=true)
+
+## 🌐 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dm2998&layout=compact)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=dm2998)
+
+## 📈 GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dm2998&theme=react-dark)
 
 ---
 
-# 🚀 PR & Code Review Metrics (Generated with github-metrics tool)
+# 🚀 PR & Code Review Metrics (Manual Values)
+These will only work if you run the *github-metrics* Python tool locally.  
+For now, placeholders remain:
 
 | Metric | Value |
 |--------|--------|
@@ -159,7 +143,6 @@ git log --date=short --pretty=format:'%ad' | sort | uniq -c
 | 🔥 Hotfix Count | `RUN_TOOL_OUTPUT` |
 | 📌 PR Count | `RUN_TOOL_OUTPUT` |
 | 📈 Merge Rate | `RUN_TOOL_OUTPUT` |
-
 
 
 ---
