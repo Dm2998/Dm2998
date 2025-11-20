@@ -108,6 +108,25 @@
 
 ---
 
+https://github-readme-stats.vercel.app/api?username=dm2998
+
+
+---
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=dm2998
+
+
+---
+
+https://nirzak-streak-stats.vercel.app/?user=dm2998
+
+
+---
+
+https://github-readme-activity-graph.vercel.app/graph?username=dm2998
+
+
+
 <br>
 
 ## 🐍 Learn Python
