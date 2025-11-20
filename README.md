@@ -86,40 +86,8 @@
 
 <br>
 
----
-### 🛠️ Project Showcase & Technical Stack.
 
-| **Featured DevOps Project** | **Most Used Languages** | **Pinned Repository** |
-| :--- | :--- | :--- |
-| [![Featured Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=CA2_Devops_24&theme=dark&hide_border=true)](https://github.com/Dm2998/CA2_Devops_24) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dm2998&layout=compact&theme=dark&hide_border=true&exclude_languages=Jupyter%20Notebook&langs_count=14)](https://github.com/Dm2998) | [![Pinned Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=project-23&theme=dark&hide_border=true)](https://github.com/Dm2998/project-23) |
-
----
-<br>
-
----
-
-### 📈 Weekly Commit Graph  
-![Weekly Commits](https://github-readme-activity-graph.vercel.app/graph?username=dm2998&theme=react-dark&area=true&hide_border=true&custom_title=Weekly%20Commit%20Activity)
-
----
-
-### 🗓️ Monthly Commit Activity  
-![Monthly Commits](https://github-readme-activity-graph.vercel.app/graph?username=dm2998&theme=github-compact&hide_border=true&radius=8&area=true&custom_title=Monthly%20Contribution%20Overview)
-
----
-
-
-<br>
-
-```
-git log --date=short --pretty=format:'%ad' | sort | uniq -c
-```
-
-
-
-<br>
-
-
+## 📚Learn Python :tada:
 
 
 <details> <summary>💻 <b> PythonExample</b></summary>
@@ -155,6 +123,9 @@ if __name__ == '__main__':
     date_time()
 ```
 </details>
+
+
+
 
 <br>
 
