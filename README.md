@@ -139,6 +139,16 @@ if __name__ == '__main__':
 ```
 </details>
 
+<br>
+
+## 📚Learn Bash Notes :tada:
+
+📚 Explore the Bssh with these beginner-friendly resources:
+<br>
+
+🔖 [Bash - Tutorial 1](https://goalkicker.com/BashBook/) <br>
+
+
 
 
 
