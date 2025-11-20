@@ -114,34 +114,55 @@ git log --date=short --pretty=format:'%ad' | sort | uniq -c
 
 ---
 
-![2025 Commits](https://github-readme-stats.vercel.app/api?username=dm2998&show_icons=true&theme=dark&hide_border=true&commits_year=2025&custom_title=Commits%20in%202025)
-
----
-![2024 Commits](https://github-readme-stats.vercel.app/api?username=dm2998&show_icons=true&theme=dark&hide_border=true&commits_year=2024&custom_title=Commits%20in%202024)
-
-
----
-![All Time Commits](https://github-readme-stats.vercel.app/api?username=dm2998&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&custom_title=All%20Time%20Commit%20Count)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_HERE&show_icons=true&include_all_commits=true)
 
 
 ---
 
-## 📊 GitHub Commit Metrics
-
-### 🗓️ 2025 Commit Count
-![2025 Commits](https://github-readme-stats.vercel.app/api?username=dm2998&show_icons=true&theme=dark&hide_border=true&commits_year=2025&custom_title=Commits%20in%202025)
-
-### 🗓️ 2024 Commit Count
-![2024 Commits](https://github-readme-stats.vercel.app/api?username=dm2998&show_icons=true&theme=dark&hide_border=true&commits_year=2024&custom_title=Commits%20in%202024)
-
-### 🌍 All-Time Commits
-![All Time Commits](https://github-readme-stats.vercel.app/api?username=dm2998&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&custom_title=All%20Time%20Commit%20Count)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_HERE&layout=compact)
 
 
+---
+    
+![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME_HERE)
 
 
 ---
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_HERE&theme=react-dark)
+
+---
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME_HERE&repo=REPO_NAME)](https://github.com/USERNAME_HERE/REPO_NAME)
+
+
+---
+# 📊 GitHub Developer Dashboard
+
+## 🔥 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_HERE&show_icons=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_HERE&layout=compact)
+![Streak Stats](https://streak-stats.demolab.com?user=USERNAME_HERE)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_HERE&theme=react-dark)
+
+---
+
+# 🚀 PR & Code Review Metrics (Generated with github-metrics tool)
+
+| Metric | Value |
+|--------|--------|
+| ⏱️ Time To Merge | `RUN_TOOL_OUTPUT` |
+| 🕒 Time To Review | `RUN_TOOL_OUTPUT` |
+| 🧭 Time To Open | `RUN_TOOL_OUTPUT` |
+| 🔄 Open → Merge Time | `RUN_TOOL_OUTPUT` |
+| 📦 PR Size (added/deleted) | `RUN_TOOL_OUTPUT` |
+| 🔥 Hotfix Count | `RUN_TOOL_OUTPUT` |
+| 📌 PR Count | `RUN_TOOL_OUTPUT` |
+| 📈 Merge Rate | `RUN_TOOL_OUTPUT` |
+
+
+
+---
 
 <br>
 
