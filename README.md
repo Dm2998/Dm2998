@@ -90,23 +90,16 @@
 ## 📚Learn Python :tada:
 
 📚 Explore the Python programming language with these beginner-friendly resources:
+<br>
 
 🔖 [Python - Flask Tutorial ](https://www.tutorialspoint.com/flask/index.htm) <br>
-
 🔖 [Python - Flask Tutorial 1](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) <br>
-
 🔖 [Python - Flask Tutorial 3](https://explore-flask.readthedocs.io/en/latest/) <br>
-
 🔖 [Python - Flask Tutorial 4](https://explore-flask.readthedocs.io/en/latest/) <br>
-
 🔖 [Python - Tutorial FastApi ](https://fastapi.tiangolo.com/) <br>
-
 🔖 [Python - Tutorial FastApi 1](https://testdriven.io/blog/topics/fastapi/) <br>
-
 🔖 [Python - Tutorial FastApi 1](https://testdriven.io/blog/topics/fastapi/) <br>
-
 🔖 [Python - Tutorial Django](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django) <br>
-
 🔖 [Python - Tutorial Everything](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#fastapi) <br>
 
 
