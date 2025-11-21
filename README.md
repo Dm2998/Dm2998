@@ -146,7 +146,7 @@ if __name__ == '__main__':
 📚 Explore the Bssh with these beginner-friendly resources:
 <br>
 🔖 [AWK - Tutorial ](https://www.grymoire.com/Unix/Awk.html) <br>
-🔖 [Bash - Tutorial 1](https://goalkicker.com/BashBook/) <br>
+🔖 [Bash - Tutorial ](https://goalkicker.com/BashBook/) <br>
 
 
 
