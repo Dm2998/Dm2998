@@ -368,6 +368,51 @@ function preserveDecimal(n) {                 // preserveDecimal() function pars
 🔖 [Curso de GO 2](https://github.com/vladimirvivien/learning-go/tree/master) <br>
 🔖 [Curso de GO Cryptographic](https://leanpub.com/gocrypto/read#leanpub-auto-public-key-infrastructure) <br>
 
+<br>   
+<details> <summary>💻 <b>J Example</b></summary>Go
+<summary>:eyes: Example of Go </summary>
+
+  
+<br>
+
+
+
+```
+
+package main
+
+import (
+	"fmt"
+)
+
+var words = [][]string{
+	{"break", "lake", "go", "right", "strong", "kite", "hello"},
+	{"fix", "river", "stop", "left", "weak", "flight", "bye"},
+	{"fix", "lake", "slow", "middle", "sturdy", "high", "hello"},
+}
+
+func search(w string) {
+DoSearch:
+	for i := 0; i < len(words); i++ {
+		for k := 0; k < len(words[i]); k++ {
+			if words[i][k] == w {
+				fmt.Println("Found", w)
+				break DoSearch
+			}
+		}
+	}
+}
+
+func main() {
+	search("lake")
+}
+
+```
+
+</details>
+
+
+
 <br>
 <br> 
 
@@ -391,6 +436,8 @@ function preserveDecimal(n) {                 // preserveDecimal() function pars
 <details> <summary>🎨 <b>Example: Shapes with Turtle</b></summary>
 
 <summary>:eyes: Example of Trigonometry with Turtle Python. </summary>
+
+
 
 <br>
 <br>  
