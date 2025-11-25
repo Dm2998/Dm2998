@@ -369,7 +369,7 @@ function preserveDecimal(n) {                 // preserveDecimal() function pars
 🔖 [Curso de GO Cryptographic](https://leanpub.com/gocrypto/read#leanpub-auto-public-key-infrastructure) <br>
 
 <br>   
-<details> <summary>💻 <b>J Example</b></summary>Go
+<details> <summary>💻 <b></b></summary>
 <summary>:eyes: Example of Go </summary>
 
   
