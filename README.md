@@ -163,7 +163,7 @@ if __name__ == '__main__':
 
 ## 📚Learn Perl :tada:
 
-📚 Explore the Perl programming language with these beginner-friendly resources:
+📚 Explore the Perl programming language, with these beginner-friendly resources:
 <br>
 
 🔖 [Perl-Tutorial 1](https://www.youtube.com/@bermnz) <br>
