@@ -12,7 +12,7 @@
 - 🎓 I’m a **recent graduate** in *Computing Science with Cloud IT Management* from [**Technological University Dublin**](https://www.tudublin.ie/).  
 - 🌱 I’m currently learning **Go**, **MQTT**, and **Sensor integration** to expand my full-stack and IoT development skills.  
 - 📍 Based in **Dublin, Ireland**.  
-- 💬 Passionate about **clean code**, **problem-solving**, and **continuous learning** in **cloud, virtualization, and infrastructure technologies**.
+- 💬 Passionate about **clean code**, **problem-solving**, and **continuous learning** in **cloud, virtualization, and infrastructure technologies**....
 
 ---
 
