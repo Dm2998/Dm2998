@@ -1,3 +1,57 @@
+<header class="bg-light py-3 sticky-top">
+    <div class="container d-flex align-items-center justify-content-center flex-wrap">
+
+        <a href="#home" class="nav-link font-weight-bold text-uppercase p-0 me-3" style="font-size: 1.25rem;">Diego Alexander Medina</a>
+
+        <nav class="navbar navbar-expand-lg navbar-light order-lg-2">
+            <button
+                class="navbar-toggler custom-toggler d-lg-none"
+                type="button"
+                data-bs-toggle="offcanvas"
+                data-bs-target="#offcanvasNav"
+                aria-controls="offcanvasNav"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+            >
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </button>
+
+            <div class="collapse navbar-collapse d-none d-lg-block" id="navbarNavDesktop">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
+                    <li class="nav-item"><a href="#Education" class="nav-link">Education</a></li>
+                    <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                    <li class="nav-item"><a href="#Experience" class="nav-link">Experiences</a></li>
+                    <li class="nav-item"><a href="#Hobbies" class="nav-link">Hobbies</a></li>
+                    <li class="nav-item">
+                        <button
+                            type="button"
+                            class="btn btn-muted nav-link text-primary ms-lg-2"
+                            data-bs-toggle="modal"
+                            data-bs-target="#contactModal"
+                            style="border-radius: 20px; padding: 5px 15px; border: none;"
+                        >
+                            Contact
+                        </button>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</header>
+
+
+
+
+
+
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=header"/>
 
 ![](https://komarev.com/ghpvc/?username=Dm2998)
