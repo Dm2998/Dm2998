@@ -23,10 +23,10 @@
 ## 🎓 Certifications & Specializations
 
 <p align="left">
-  <img src="image_eecc8a.png" height="100" title="CompTIA CIOS">
+  <!-- <img src="image_eecc8a.png" height="100" title="CompTIA CIOS">
   <img src="image_eecc2b.png" height="100" title="CompTIA Network+">
-  <img src="image_eecfa7.png" height="100" title="PCAP Certified Associate Python Programmer">
-  <img src="https://img.shields.io/badge/Docker-Associate-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="45">
+  <img src="image_eecfa7.png" height="100" title="PCAP Certified Associate Python Programmer"> -->
+  <!-- <img src="https://img.shields.io/badge/Docker-Associate-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="45"> -->
   <img src="https://img.shields.io/badge/Cyber_Security-Specialist-ED1C24?style=for-the-badge&logo=fortinet&logoColor=white" height="45">
 </p>
 <br>
