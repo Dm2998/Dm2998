@@ -17,6 +17,23 @@
 - 📍 Based in **Dublin, Ireland**.  
 - 💬 Passionate about **clean code**, **problem-solving**, and **continuous learning** in **cloud, virtualization, and infrastructure technologies**....
 
+
+<br>
+
+## Certifications & Specializations
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/eecc8a" width="150" title="CompTIA CIOS">
+  <img src="https://github.com/user-attachments/assets/eecc2b" width="150" title="CompTIA Network+">
+  <img src="https://github.com/user-attachments/assets/eecfa7" width="150" title="PCAP Certified Associate Python Programmer">
+  <img src="https://img.shields.io/badge/Docker-Associate-blue?style=for-the-badge&logo=docker&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Cyber_Security-Specialist-red?style=for-the-badge&logo=fortinet&logoColor=white" height="40">
+</p>
+
+
+<br>
+
+
 ---
 
 ## 🧠 Tech Stack
