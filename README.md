@@ -25,12 +25,12 @@
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/7c482e86-46bd-44a2-9a01-67e08d7c9bd0" width="90" alt="PCAP Certified Associate Python Programmer">
-  <img src="https://github.com/user-attachments/assets/7e558271-22ae-4bd2-afd9-c3f9f0cf0bf0" width="90" alt="CompTIA CIOS">
+  <!-- <img src="https://github.com/user-attachments/assets/7e558271-22ae-4bd2-afd9-c3f9f0cf0bf0" width="90" alt="CompTIA CIOS"> -->
   <img src="https://github.com/user-attachments/assets/61b02964-206d-4e57-9d9d-a036a6c576ad" width="90" alt="CompTIA Network+">
-  <img src="https://github.com/user-attachments/assets/6ed5d9ec-045d-493a-b940-589f0b848101" width="90" alt="CompTIA A+">
+  <!-- <img src="https://github.com/user-attachments/assets/6ed5d9ec-045d-493a-b940-589f0b848101" width="90" alt="CompTIA A+"> -->
   <img src="https://github.com/user-attachments/assets/3dc241f2-b15e-4f24-8349-7760ba65fa82" width="90" alt="Cisco Networking Essentials">
   <img src="https://github.com/user-attachments/assets/0313e378-b396-43a0-acf5-f6b072e747ad" width="90" alt="Cisco Cybersecurity Essentials">
-  <img src="https://github.com/user-attachments/assets/ff9b3cf8-a46e-4714-8b21-16ef024bfa52" width="90" alt="TU New Venture Design">
+  <!-- <img src="https://github.com/user-attachments/assets/ff9b3cf8-a46e-4714-8b21-16ef024bfa52" width="90" alt="TU New Venture Design"> -->
 </p>
 
 
