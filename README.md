@@ -31,8 +31,6 @@
   <img src="https://github.com/user-attachments/assets/3dc241f2-b15e-4f24-8349-7760ba65fa82" width="90" alt="Cisco Networking Essentials">
   <img src="https://github.com/user-attachments/assets/0313e378-b396-43a0-acf5-f6b072e747ad" width="90" alt="Cisco Cybersecurity Essentials">
   <!-- <img src="https://github.com/user-attachments/assets/ff9b3cf8-a46e-4714-8b21-16ef024bfa52" width="90" alt="TU New Venture Design"> -->
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/Docker_Container-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40">
 </p>
 
 
@@ -64,6 +62,8 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=internetofthings&logoColor=white)
+![kubernetes](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=internetofthings&logoColor=white)
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="40">
 
 </div>
 
