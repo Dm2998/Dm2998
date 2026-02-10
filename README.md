@@ -133,8 +133,16 @@ I enjoy building practical solutions, learning new technologies, and working in 
 - 📍 Based in **Dublin, Ireland**.  
 - 💬 Passionate about **clean code**, **problem-solving**, and **continuous learning** in **cloud, virtualization, and infrastructure technologies**....
 
+---
 
-<br>
+## 🧠 What I’m Working On
+
+- 🔌 IoT projects using **MQTT** and sensor data
+- ☁️ Cloud-hosted services with **Docker & AWS**
+- ⚙️ Backend APIs and system integration
+- 🧪 Improving system reliability, logging, and deployment workflows
+
+---
 
 
 ### 🎓 Tech
