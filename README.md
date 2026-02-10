@@ -31,6 +31,27 @@
 	</div>
 </section> 
 <!--  -->
+window.addEventListener("DOMContentLoaded", function () {
+  if (window.VANTA && window.VANTA.NET) {
+    window.VANTA.NET({
+      el: "#vanta-bg",
+      mouseControls: true,
+      touchControls: true,
+      gyroControls: false,
+      minHeight: 200.00,
+      minWidth: 200.00,
+      scale: 1.00,
+      scaleMobile: 1.00,
+      color: 0x3e50f0,
+      backgroundColor: 0x111827,
+      points: 9.00,
+      maxDistance: 22.00,
+      spacing: 16.00
+    });
+  } else {
+    console.error("VANTA.NET didn't load—check your script URLs.");
+  }
+});
 
 
 
