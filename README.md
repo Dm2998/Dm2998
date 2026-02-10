@@ -1,12 +1,5 @@
 
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=header"/>
-
-![](https://komarev.com/ghpvc/?username=Dm2998)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5F5F5&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Diego+Alexander!;Welcome+to+my+GitHub+Profile!+👋)](https://git.io/typing-svg)
-
 ---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=160&section=header"/>
 
