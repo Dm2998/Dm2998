@@ -1,4 +1,111 @@
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=160&section=header"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dm2998&color=blue&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=F5F5F5&size=34&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Diego+Alexander!;Cloud+%7C+Full-Stack+%7C+IoT+Developer;Actively+Seeking+Entry-Level+Roles+🚀" />
+</p>
+
+---
+
+## 👋 About Me
+
+I’m a **recent Computing Science graduate** with a strong interest in **Cloud Infrastructure, Full-Stack Development, and IoT systems**.  
+I enjoy building practical solutions, learning new technologies, and working in collaborative engineering teams.
+
+- 🎯 Actively seeking a **permanent entry-level role**
+- 🎓 **Computing Science with Cloud IT Management**
+- 🌱 Currently learning **Go**, **MQTT**, and **IoT sensor integration**
+- ☁️ Interested in **cloud platforms, virtualization, and scalable systems**
+- 📍 Dublin, Ireland 🇮🇪
+
+---
+
+## 🧠 What I’m Working On
+
+- 🔌 IoT projects using **MQTT** and sensor data
+- ☁️ Cloud-hosted services with **Docker & AWS**
+- ⚙️ Backend APIs and system integration
+- 🧪 Improving system reliability, logging, and deployment workflows
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,js,react,nodejs,docker,kubernetes,aws,linux,git" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Dm2998">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=YOUR_REPO_NAME&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Dm2998">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dm2998&repo=YOUR_REPO_NAME&theme=tokyonight" />
+  </a>
+</p>
+
+*(Replace repo names with your best projects)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dm2998&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dm2998&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dm2998&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=160&section=header"/>
