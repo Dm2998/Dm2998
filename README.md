@@ -8,50 +8,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5F5F5&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Diego+Alexander!;Welcome+to+my+GitHub+Profile!+👋)](https://git.io/typing-svg)
 
 ---
-<script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.net.min.js"></script>
-<!-- Hero Section with Vanta.js Animated Background -->
-<section id="home" class="position-relative" style="overflow:hidden;">
-	<div id="vanta-bg" style="
-		width:100%;
-		min-height:90vh;
-		background-color:#111827;
-		position:relative;">
-		<h1 id="hero-name"
-			style="color:#ffffff; font-size:3rem; font-weight:700; letter-spacing:2px;
-				text-shadow:0 4px 10px rgba(0,0,0,0.5); position:absolute;
-				top:50%; left:50%; transform:translate(-50%, -50%); z-index:10;">
-			<!-- Diego Medina -->
-		</h1>
-		<!-- Down Indicator (keep inside so it's over the animation) -->
-		<div class="down-indicator text-center position-absolute w-100" style="bottom:20px; z-index:10;">
-			<a href="#about" id="downIndicator" class="text-primary">
-				<i class="fa fa-chevron-down fa-3x"></i>
-			</a>
-		</div>
-	</div>
-</section> 
-<!--  -->
-window.addEventListener("DOMContentLoaded", function () {
-  if (window.VANTA && window.VANTA.NET) {
-    window.VANTA.NET({
-      el: "#vanta-bg",
-      mouseControls: true,
-      touchControls: true,
-      gyroControls: false,
-      minHeight: 200.00,
-      minWidth: 200.00,
-      scale: 1.00,
-      scaleMobile: 1.00,
-      color: 0x3e50f0,
-      backgroundColor: 0x111827,
-      points: 9.00,
-      maxDistance: 22.00,
-      spacing: 16.00
-    });
-  } else {
-    console.error("VANTA.NET didn't load—check your script URLs.");
-  }
-});
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=160&section=header"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dm2998&color=blue&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=F5F5F5&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Diego+Alexander!;Welcome+to+my+GitHub+Profile!+👋;Cloud+%7C+Full-Stack+%7C+IoT+Enthusiast" />
+</p>
 
 
 
