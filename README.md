@@ -8,6 +8,36 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5F5F5&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Diego+Alexander!;Welcome+to+my+GitHub+Profile!+👋)](https://git.io/typing-svg)
 
 ---
+<script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.net.min.js"></script>
+<!-- Hero Section with Vanta.js Animated Background -->
+<section id="home" class="position-relative" style="overflow:hidden;">
+	<div id="vanta-bg" style="
+		width:100%;
+		min-height:90vh;
+		background-color:#111827;
+		position:relative;">
+		<h1 id="hero-name"
+			style="color:#ffffff; font-size:3rem; font-weight:700; letter-spacing:2px;
+				text-shadow:0 4px 10px rgba(0,0,0,0.5); position:absolute;
+				top:50%; left:50%; transform:translate(-50%, -50%); z-index:10;">
+			<!-- Diego Medina -->
+		</h1>
+		<!-- Down Indicator (keep inside so it's over the animation) -->
+		<div class="down-indicator text-center position-absolute w-100" style="bottom:20px; z-index:10;">
+			<a href="#about" id="downIndicator" class="text-primary">
+				<i class="fa fa-chevron-down fa-3x"></i>
+			</a>
+		</div>
+	</div>
+</section> 
+<!--  -->
+
+
+
+
+
+
+
 
 ## 👨‍💻 About Me
 
